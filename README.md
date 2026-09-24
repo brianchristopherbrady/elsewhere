@@ -2,6 +2,8 @@
 
 A Seattle discovery and day-planning app, with real source-linked venues, dated events, three design lenses, and independent light/dark color modes. Built with React, TypeScript, Vite, Leaflet, dnd-kit, and Lucide.
 
+**Live demo:** https://brianchristopherbrady.github.io/elsewhere/ is a static GitHub Pages build (`npm run build:pages` with `VITE_STATIC_SITE=true`). Events are a snapshot refreshed daily by the [Pages workflow](.github/workflows/pages.yml), and saved days stay in the visitor's browser. Accounts need the Node server described below.
+
 ## Run
 
 Requires Node.js 22.18+ (tested on 24.19).
