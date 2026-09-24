@@ -1,0 +1,2393 @@
+{
+  "generatedAt": "2026-09-23",
+  "entries": {
+    "staple:seward-park": {
+      "title": "Seward Park (Seattle)",
+      "url": "https://en.wikipedia.org/wiki/Seward_Park_(Seattle)",
+      "extract": "Seward Park is a municipal park in Seattle, Washington, United States. Located in the city neighborhood of the same name, it covers 300 acres.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:green-lake-park": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:golden-gardens": {
+      "title": "Golden Gardens Park",
+      "url": "https://en.wikipedia.org/wiki/Golden_Gardens_Park",
+      "extract": "Golden Gardens Park is a public park in Ballard, a neighborhood of Seattle, Washington. The park includes wetlands, beaches, hiking trails, and picnic and playground areas.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:alki-beach": {
+      "title": "Alki Beach Park",
+      "url": "https://en.wikipedia.org/wiki/Alki_Beach_Park",
+      "extract": "Alki Beach Park is a 135.9-acre (55.0 ha) park located in the West Seattle neighborhood of Seattle, Washington that consists of the Elliott Bay beach between Alki Point and Duwamish Head. It has a 0.5 miles (0.80 km) of beachfront, and was the first public salt-water bathing beach on the west coast of the United States.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:lincoln-park": {
+      "title": "Lincoln Park (Seattle)",
+      "url": "https://en.wikipedia.org/wiki/Lincoln_Park_(Seattle)",
+      "extract": "Lincoln Park is a 135 acres (0.55 km2) park in West Seattle alongside Puget Sound. The park's attractions include forest trails, a paved walkway along the beach, athletic fields, picnic shelters, and a heated saltwater swimming pool which is open during the summer.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:carkeek-park": {
+      "title": "Carkeek Park",
+      "url": "https://en.wikipedia.org/wiki/Carkeek_Park",
+      "extract": "Carkeek Park is a 216-acre park (87 ha) in the Broadview neighborhood of Seattle, Washington, United States. The park offers various attractions, including Piper Orchard, Pipers Creek with its tributaries, Venema Creek and Mohlendorph Creek, as well as picnic areas, shelters, and hiking trails.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:magnuson-park": {
+      "title": "Magnuson Park",
+      "url": "https://en.wikipedia.org/wiki/Magnuson_Park",
+      "extract": "Magnuson Park is a park in the Sand Point neighborhood of Seattle, Washington, United States. At 350 acres (140 ha) it is the second-largest park in Seattle, after Discovery Park in Magnolia (which covers 534 acres (2.16 km2)).",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:volunteer-park": {
+      "title": "Volunteer Park (Seattle)",
+      "url": "https://en.wikipedia.org/wiki/Volunteer_Park_(Seattle)",
+      "extract": "Volunteer Park is a 48.3-acre (19.5 ha) park in the Capitol Hill neighborhood of Seattle, Washington, United States.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:washington-park-arboretum": {
+      "title": "Washington Park Arboretum",
+      "url": "https://en.wikipedia.org/wiki/Washington_Park_Arboretum",
+      "extract": "Washington Park is a public park in Seattle, Washington, United States, most of which is taken up by the Washington Park Arboretum, a joint project of the University of Washington, the Seattle Parks and Recreation, and the nonprofit Arboretum Foundation. Washington Park also includes a playfield and the Seattle Japanese Garden in its southwest corner.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:ravenna-park": {
+      "title": "Ravenna Park",
+      "url": "https://en.wikipedia.org/wiki/Ravenna_Park",
+      "extract": "Ravenna Park and Cowen Park comprise a single contiguous recreation and green space between the Ravenna and Roosevelt neighborhoods of Seattle, Washington in the United States. These public parks encompass the ravine with a maximum depth of 115 feet (35 m) through which Ravenna Creek flows.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:cowen-park": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:woodland-park": {
+      "title": "Woodland Park Zoo",
+      "url": "https://en.wikipedia.org/wiki/Woodland_Park_Zoo",
+      "extract": "Woodland Park Zoo is a wildlife conservation organization and zoological garden located in the Phinney Ridge neighborhood of Seattle, Washington, United States. The zoo is the recipient of over 65 awards across multiple categories.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:camp-long": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:schmitz-preserve": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:frink-park": {
+      "title": "Frink Park",
+      "url": "https://en.wikipedia.org/wiki/Frink_Park",
+      "extract": "Frink Park is a 17.2 acre (70,000 m2) park in the Leschi neighborhood of Seattle, Washington. It is a heavily wooded hillside and ravine through which flows Frink Creek.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:interlaken-park": {
+      "title": "Interlaken Park",
+      "url": "https://en.wikipedia.org/wiki/Interlaken_Park",
+      "extract": "Interlaken Park is a 51.7-acre (0.209 km2) park in Seattle, Washington. A heavily wooded hillside and ravine, it forms the division between Capitol Hill to the south and Montlake to the north.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:northacres-park": {
+      "title": "Northacres Park",
+      "url": "https://en.wikipedia.org/wiki/Northacres_Park",
+      "extract": "Northacres Park is a 20.7-acre (84,000 m2) public park located in the Haller Lake neighborhood of Seattle, Washington, at the corner of Interstate 5 and N.E. 130th Street. It incorporates a large forested area with trails, a picnic area, a baseball diamond and soccer field, and an off-leash dog area.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:llandover-woods": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:cheasty-greenspace": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:west-duwamish-greenbelt": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:volunteer-park-conservatory": {
+      "title": "Volunteer Park Conservatory",
+      "url": "https://en.wikipedia.org/wiki/Volunteer_Park_Conservatory",
+      "extract": "The Volunteer Park Conservatory is a botanical garden, conservatory, and Seattle landmark located in Seattle, Washington at the north end of Volunteer Park on Capitol Hill.\nMade up of 3,426 glass panes fit into a wood and iron framework, this Victorian-style greenhouse structure is modeled on London's Crystal Palace.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:woodland-park-rose-garden": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:carl-s-english-jr-botanical-garden": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-chinese-garden": {
+      "title": "Seattle Chinese Garden",
+      "url": "https://en.wikipedia.org/wiki/Seattle_Chinese_Garden",
+      "extract": "The Seattle Chinese Garden is a Sichuanese garden located on 4.6 acres (1.9 hectares) at the north end of the South Seattle College campus in West Seattle.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:south-seattle-college-arboretum": {
+      "title": "South Seattle College Arboretum",
+      "url": "https://en.wikipedia.org/wiki/South_Seattle_College_Arboretum",
+      "extract": "The South Seattle College Arboretum (formerly South Seattle Community College Arboretum, renamed with the college in March 2014) is a 6-acre (24,000 m2) arboretum and botanical garden located at the north end of the South Seattle College campus in Seattle, Washington. It is open daily without charge.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:uw-center-for-urban-horticulture": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:union-bay-natural-area": {
+      "title": "Union Bay Natural Area",
+      "url": "https://en.wikipedia.org/wiki/Union_Bay_Natural_Area",
+      "extract": "The Union Bay Natural Area (UBNA) in Seattle, Washington, also known as Union Bay Marsh, is the restored remainder of the filled former Union Bay and Union Bay Marsh. It is located at the east end of the main University of Washington campus, south of NE 45th Street and west of Laurelhurst.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:parsons-gardens": {
+      "title": "Parsons Gardens Park",
+      "url": "https://en.wikipedia.org/wiki/Parsons_Gardens_Park",
+      "extract": "Parsons Gardens Park (also called Parsons Memorial Garden) is a 0.4-acre (0.16 ha) city park in the Queen Anne neighborhood of Seattle, Washington. It was called by Fodor's a \"a prim urban oasis\", and by another guide a \"secret garden for non-tourists\".",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:bradner-gardens": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:danny-woo-community-garden": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:beacon-food-forest": {
+      "title": "Beacon Food Forest",
+      "url": "https://en.wikipedia.org/wiki/Beacon_Food_Forest",
+      "extract": "Beacon Food Forest is a 7-acre food forest in development adjacent to Jefferson Park on Beacon Hill in Seattle, Washington in the vicinity of 15th Avenue South and South Dakota Street. As the area sits on land owned by Seattle Public Utilities, it is believed to be the largest food forest on public land in the United States.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:kerry-park": {
+      "title": "Kerry Park",
+      "url": "https://en.wikipedia.org/wiki/Kerry_Park",
+      "extract": "Kerry Park is a small public park and viewpoint on the south slope of Queen Anne Hill in Seattle, Washington, United States. It overlooks Downtown Seattle and is located along West Highland Drive between 2nd Avenue West and 3rd Avenue West.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:marshall-park": {
+      "title": "Marshall Park (Seattle)",
+      "url": "https://en.wikipedia.org/wiki/Marshall_Park_(Seattle)",
+      "extract": "Marshall Park is a 0.78-acre (0.32-hectare) park in Seattle, Washington. Once known as \"Phelps Place\", the small park across from Parsons Gardens Park provided a viewpoint for sightseers until the expansion and improvement of Queen Anne Boulevard.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:bhy-kracke-park": {
+      "title": "Bhy Kracke Park",
+      "url": "https://en.wikipedia.org/wiki/Bhy_Kracke_Park",
+      "extract": "Bhy Kracke Park (also known as Comstock Place Park) is a public park in Seattle's Queen Anne neighborhood, in the U.S. state of Washington. It is on the southeast side of Queen Anne Hill, between Bigelow Avenue (part of Queen Anne Boulevard) and 5th Avenue North.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:kinnear-park": {
+      "title": "Kinnear Park",
+      "url": "https://en.wikipedia.org/wiki/Kinnear_Park",
+      "extract": "Kinnear Park is a 14.1-acre (57,000 m2) park on the southwest slope of Queen Anne Hill in Seattle, Washington, United States located between W. Olympic Place on the northeast, W. Mercer Place and Elliott Avenue W. on the southwest, the 9th Avenue W. right of way on the west, and the 6th Avenue W. right of way on the east. It is two-tiered, with a lawn and open space atop the cliff, and a wooded area below.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:ella-bailey-park": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:magnolia-park": {
+      "title": "Magnolia Park (Seattle)",
+      "url": "https://en.wikipedia.org/wiki/Magnolia_Park_(Seattle)",
+      "extract": "Magnolia Park is a 12.1-acre (4.9 ha) park in the Magnolia neighborhood of Seattle, Washington.\nAccording to the Seattle Parks and Recreation Department: The Magnolia neighborhood and park were misnamed by a Navy geographer who wrongly identified the area's madrona trees as magnolias.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:sunset-hill-park": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fremont-peak-park": {
+      "title": "Fremont Peak Park",
+      "url": "https://en.wikipedia.org/wiki/Fremont_Peak_Park",
+      "extract": "Fremont Peak Park is a 0.5-acre (0.20 ha) park located within the Fremont neighborhood of Seattle. The park was opened to the public on November 10, 2007.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fremont-canal-park": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:ballard-commons": {
+      "title": "Ballard Commons Park",
+      "url": "https://en.wikipedia.org/wiki/Ballard_Commons_Park",
+      "extract": "Ballard Commons Park is a public park in Ballard, Seattle, in the U.S. state of Washington.\nFollowing the December 2021 clearing of a large encampment, the park reopened in March 2023.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:commodore-park": {
+      "title": "Commodore Park",
+      "url": "https://en.wikipedia.org/wiki/Commodore_Park",
+      "extract": "Commodore Park is a public park on the Magnolia side of the Ballard Locks, near the Salmon Bay Bridge, in Seattle, Washington.\nThe park has a heron habitat.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:hamilton-viewpoint": {
+      "title": "Hamilton Viewpoint",
+      "url": "https://en.wikipedia.org/wiki/Hamilton_Viewpoint",
+      "extract": "Hamilton Viewpoint is a 16.9-acre (6.8 ha) public park in the West Seattle neighborhood of Seattle, Washington, United States. It was acquired by the city in 1914 and became a park 4 years later.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:belvedere-park": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:emma-schmitz-memorial-overlook": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:me-kwa-mooks-park": {
+      "title": "Me-Kwa-Mooks Park",
+      "url": "https://en.wikipedia.org/wiki/Me-Kwa-Mooks_Park",
+      "extract": "Me-Kwa-Mooks Park is a 20.2-acre (82,000 m2) public park located in the West Seattle neighborhood of Seattle, Washington, USA. Me-Kwa-Mooks is an Anglicized version of the Lushootseed word for Alki Point, sbaqʷabqs (pronounced SBAH-kwahb-ks), meaning \"prairie point.\"\nToday's Me-Kwa-Mooks Park is land that was acquired by the Parks Department in 1971. The site was originally the homestead of the pioneers Ferdinand and Emma Schmitz.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:jack-block-park": {
+      "title": "Jack Block Park",
+      "url": "https://en.wikipedia.org/wiki/Jack_Block_Park",
+      "extract": "Jack Block Park is a 15-acre (6.1 ha) park in the West Seattle neighborhood of Seattle, Washington, United States. Situated on the northwest corner of the Port of Seattle's Terminal 5, the park offers public beach access, a children's play area, and a 45-foot (14 m) observation tower.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seacrest-park": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:don-armeni-boat-ramp-waterfront": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:waterfront-park": {
+      "title": "Waterfront Park (Seattle)",
+      "url": "https://en.wikipedia.org/wiki/Waterfront_Park_(Seattle)",
+      "extract": "Waterfront Park is a public park on the Central Waterfront, Downtown, Seattle, Washington, USA. Designed by the Bumgardner Partnership and consultants, it was constructed on the site of the former Schwabacher Wharf (Pier 58). The original park closed in September 2020 after a failed inspection; the pier was completely removed by February 2021.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:myrtle-edwards-park": {
+      "title": "Myrtle Edwards Park",
+      "url": "https://en.wikipedia.org/wiki/Myrtle_Edwards_Park",
+      "extract": "Myrtle Edwards Park in Seattle, Washington is a 4.8-acre (1.9 ha) public park along the Elliott Bay waterfront north of Belltown, Seattle, in the state of Washington, United States. It features a 1.25-mile (2.01 km) long bicycle and walking path and is a good place to see eagles, gulls, and crows.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:centennial-park": {
+      "title": "Centennial Park (Seattle)",
+      "url": "https://en.wikipedia.org/wiki/Centennial_Park_(Seattle)",
+      "extract": "Centennial Park (formerly Elliott Bay Park) is an 11-acre (4.5 ha) public park in Seattle, in the U.S. state of Washington, owned and operated by the Port of Seattle. It was constructed using rubble from the construction of Interstate 5 alongside nearby Myrtle Edwards Park.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:victor-steinbrueck-park": {
+      "title": "Victor Steinbrueck Park",
+      "url": "https://en.wikipedia.org/wiki/Victor_Steinbrueck_Park",
+      "extract": "Victor Steinbrueck Park is an urban park in Downtown Seattle, Washington, United States, located just northwest of Pike Place Market overlooking Elliott Bay. Named for the Seattle-based architect Victor Steinbrueck, it is positioned between Western Avenue and Alaskan Way at the foot of Virginia Street.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:lake-union-park": {
+      "title": "Lake Union Park",
+      "url": "https://en.wikipedia.org/wiki/Lake_Union_Park",
+      "extract": "Lake Union Park is a 12-acre (4.9 ha) park located at the south end of Lake Union in Seattle, Washington in the South Lake Union neighborhood. The park is owned by the City of Seattle and operated by Seattle Parks and Recreation.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fairview-park": {
+      "title": "Fairview Park (Seattle)",
+      "url": "https://en.wikipedia.org/wiki/Fairview_Park_(Seattle)",
+      "extract": "Fairview Park is a 0.8-acre (3,200 m2) park located in Seattle, Washington, on the eastern shoreline of Lake Union along Fairview Avenue E. between E. Hamlin and Allison Streets. It includes a P-Patch and a boat launch.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:south-passage-point-park": {
+      "title": "South Passage Point Park",
+      "url": "https://en.wikipedia.org/wiki/South_Passage_Point_Park",
+      "extract": "South Passage Point Park is a 0.9-acre (0.36 ha) park located in the Eastlake neighborhood of Seattle, Washington, United States. It is directly underneath the Ship Canal Bridge on the south side of the Lake Union/Portage Bay shoreline; North Passage Point Park is directly across the water on the north shore.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:cheshiahud-lake-union-loop": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:madison-park-beach": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:madrona-beach": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:denny-blaine-park": {
+      "title": "Denny Blaine Park",
+      "url": "https://en.wikipedia.org/wiki/Denny_Blaine_Park",
+      "extract": "Denny Blaine Park is a 2 acres (8,100 m2) water-front park in the Denny-Blaine neighborhood of Seattle, Washington. With picturesque views of Bellevue directly across the lake and Mount Rainier in the distance, it is primarily used for picnicking, sunbathing, and swimming.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:leschi-park": {
+      "title": "Leschi Park",
+      "url": "https://en.wikipedia.org/wiki/Leschi_Park",
+      "extract": "Leschi Park is an 18.5 acres (75,000 m2) park in the Leschi neighborhood of Seattle, Washington, named after Chief Leschi of the Nisqually tribe. The majority of the park is a grassy hillside that lies west of Lakeside Avenue S. and features tennis courts, picnic tables, and a playground.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:mount-baker-beach": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:colman-park": {
+      "title": "Colman Park",
+      "url": "https://en.wikipedia.org/wiki/Colman_Park",
+      "extract": "Colman Park is a 24.3-acre (98,000 m2) park in the Mount Baker neighborhood of Seattle, Washington, located just south of the Lacey V. Murrow Memorial Bridge (Interstate 90) along Lake Washington and inland to 31st Avenue S.\nIt was listed on the National Register of Historic Places in 2020, alongside the adjacent Mount Baker Park.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pritchard-island-beach": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:beer-sheva-park": {
+      "title": "Beer Sheva Park",
+      "url": "https://en.wikipedia.org/wiki/Beer_Sheva_Park",
+      "extract": "Be'er Sheva Park is a small 25.5-acre (10.3 ha) park located on Lake Washington in the Rainier Beach neighborhood of Seattle, Washington. Dedicated in 1905 as Atlantic City Park after the subdivision, it was renamed after Beer Sheva, Israel, in 1977, to honor Seattle's new sister city.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:matthews-beach": {
+      "title": "Matthews Beach Park",
+      "url": "https://en.wikipedia.org/wiki/Matthews_Beach_Park",
+      "extract": "Matthews Beach Park is a 22-acre (0.9 km2) park in the Matthews Beach neighborhood of Seattle, Washington. It is a popular swimming beach in the summer, although it is also open during winter months.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:cal-anderson-park": {
+      "title": "Cal Anderson Park",
+      "url": "https://en.wikipedia.org/wiki/Cal_Anderson_Park",
+      "extract": "Cal Anderson Park is a public park on Seattle’s Capitol Hill that includes Lincoln Reservoir and the Bobby Morris Playfield.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:louisa-boren-lookout": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:jefferson-park": {
+      "title": "Jefferson Park (Seattle)",
+      "url": "https://en.wikipedia.org/wiki/Jefferson_Park_(Seattle)",
+      "extract": "Jefferson Park is a 52.4 acres (0.212 km2) public park and golf course on top of Beacon Hill in Seattle, Washington, bounded on the east by 24th Avenue S. and 24th Place S., on the west by 15th Avenue S., on the north by S. Spokane Street, and on the south by Cheasty Boulevard S.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:dr-jose-rizal-park": {
+      "title": "Dr. Jose Rizal Park",
+      "url": "https://en.wikipedia.org/wiki/Dr._Jose_Rizal_Park",
+      "extract": "Dr. Jose Rizal Park is a 9.6 acre (39,000 m2) park on the west slope of Beacon Hill in Seattle, Washington, United States.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:jimi-hendrix-park": {
+      "title": "Jimi Hendrix Park",
+      "url": "https://en.wikipedia.org/wiki/Jimi_Hendrix_Park",
+      "extract": "Jimi Hendrix Park is a 2.3-acre (0.93 ha) park in Seattle, Washington named in honor of musician Jimi Hendrix, who was from Seattle.\nThe park was named in 2006, and the opening of the park was announced in December, 2011 at the Northwest African American Museum, adjacent to the park, with an opening planned for 2012 to mark the 70th anniversary of the musician's birth.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pratt-park": {
+      "title": "Pratt Park",
+      "url": "https://en.wikipedia.org/wiki/Pratt_Park",
+      "extract": "Pratt Park is a public park operated by Seattle Parks and Recreation, in the U.S. state of Washington. Named after Edwin T. Pratt, the founder of the Central Area Motivation Program and the Seattle Opportunities Industrialization Center, it has basketball courts, a playground, and a spray park.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:powell-barnett-park": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:othello-park": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:hing-hay-park": {
+      "title": "Hing Hay Park",
+      "url": "https://en.wikipedia.org/wiki/Hing_Hay_Park",
+      "extract": "Hing Hay Park is a 0.64-acre (2,600 m2) public park in the Chinatown–International District neighborhood of downtown Seattle, Washington, United States. The park is located on the north side of South King Street between 6th and Maynard avenues, east of Union Station and the Historic Chinatown Gate.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:kobe-terrace": {
+      "title": "Kobe Terrace (Seattle)",
+      "url": "https://en.wikipedia.org/wiki/Kobe_Terrace_(Seattle)",
+      "extract": "Kobe Terrace is a 1-acre (4,000 m2) public park in the International District neighborhood of Seattle, Washington. It incorporates the Danny Woo International District Community Garden.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:occidental-square": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:waterfall-garden-park": {
+      "title": "Waterfall Garden Park",
+      "url": "https://en.wikipedia.org/wiki/Waterfall_Garden_Park",
+      "extract": "Waterfall Garden Park, also called UPS Park and UPS Waterfall Park, is a private 60-by-80-foot (18 m × 24 m) pocket park in Seattle, Washington, created in 1978 at the original United Parcel Service building in Pioneer Square. It is open to the public during the day and closed at night.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:freeway-park": {
+      "title": "Freeway Park",
+      "url": "https://en.wikipedia.org/wiki/Freeway_Park",
+      "extract": "Freeway Park, officially known as Jim Ellis Freeway Park, is an urban park in Seattle, Washington, United States, connecting the city's downtown to the Seattle Convention Center and First Hill. The park sits atop a section of Interstate 5 and a large city-owned parking lot; 8th Avenue also bridges over the park.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:denny-park": {
+      "title": "Denny Blaine Park",
+      "url": "https://en.wikipedia.org/wiki/Denny_Blaine_Park",
+      "extract": "Denny Blaine Park is a 2 acres (8,100 m2) water-front park in the Denny-Blaine neighborhood of Seattle, Washington. With picturesque views of Bellevue directly across the lake and Mount Rainier in the distance, it is primarily used for picnicking, sunbathing, and swimming.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:westlake-park": {
+      "title": "Westlake Park (Seattle)",
+      "url": "https://en.wikipedia.org/wiki/Westlake_Park_(Seattle)",
+      "extract": "Westlake Park is a 0.1-acre (400 m2) public plaza in Downtown Seattle, Washington, United States. It was designed by Robert Mitchell Hanna and opened in 1988.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:tilikum-place": {
+      "title": "Tilikum Place",
+      "url": "https://en.wikipedia.org/wiki/Tilikum_Place",
+      "extract": "Tilikum Place is a small plaza in the Belltown neighborhood of downtown Seattle, Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:licton-springs-park": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:duwamish-waterway-park": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:herring-s-house-park": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:burke-gilman-trail": {
+      "title": "Burke–Gilman Trail",
+      "url": "https://en.wikipedia.org/wiki/Burke%E2%80%93Gilman_Trail",
+      "extract": "The Burke–Gilman Trail is a rail trail in King County, Washington. The 20-mile (32 km) multi-use recreational trail is part of the King County Regional Trail System and occupies an abandoned Seattle, Lake Shore and Eastern Railway (SLS&E) corridor.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:elliott-bay-trail": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:alki-trail": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:chief-sealth-trail": {
+      "title": "Chief Sealth Trail",
+      "url": "https://en.wikipedia.org/wiki/Chief_Sealth_Trail",
+      "extract": "The Chief Sealth Trail is a multi-use recreational trail in Seattle, Washington.\nThe 3.6-mile (6 km) trail, which opened on May 12, 2007, follows the Seattle City Light transmission right-of-way from S. Angeline Street and 15th Avenue S. in Beacon Hill, near Jefferson Park, to S. Gazelle Street and 51st Avenue S. in Rainier Valley, near Kubota Gardens.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:duwamish-river-trail": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:interurban-trail-north": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:ship-canal-trail": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:mountains-to-sound-trail-i-90": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:sr-520-trail": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:lake-washington-boulevard": {
+      "title": "Lake Washington Boulevard",
+      "url": "https://en.wikipedia.org/wiki/Lake_Washington_Boulevard",
+      "extract": "Lake Washington Boulevard is a scenic, approximately 8-mile (13 km), road through Seattle, Washington, that hugs Lake Washington for much of the route. There are views of the lake, small sections of rainforest, meadows, and views of the Cascade mountains.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-asian-art-museum": {
+      "title": "Seattle Asian Art Museum",
+      "url": "https://en.wikipedia.org/wiki/Seattle_Asian_Art_Museum",
+      "extract": "The Seattle Asian Art Museum (often abbreviated to SAAM) is a museum of Asian art at Volunteer Park in the Capitol Hill neighborhood of Seattle, Washington, United States. Part of the Seattle Art Museum, the SAAM exhibits historic and contemporary artworks from China, Korea, Japan, India, the Himalayas, and other Southeast Asian countries.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:henry-art-gallery": {
+      "title": "Henry Art Gallery",
+      "url": "https://en.wikipedia.org/wiki/Henry_Art_Gallery",
+      "extract": "The Henry Art Gallery (\"The Henry\") is the contemporary art museum of the University of Washington in Seattle, Washington. It is administered by the Arts Division of the College of Arts and Sciences of the University of Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:chihuly-garden-and-glass": {
+      "title": "Chihuly Garden and Glass",
+      "url": "https://en.wikipedia.org/wiki/Chihuly_Garden_and_Glass",
+      "extract": "Chihuly Garden and Glass is an exhibit in the Seattle Center directly next to the Space Needle, showcasing the studio glass of Dale Chihuly. It opened on May 21, 2012 at the former site of the defunct Fun Forest amusement park.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:mohai": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:national-nordic-museum": {
+      "title": "National Nordic Museum",
+      "url": "https://en.wikipedia.org/wiki/National_Nordic_Museum",
+      "extract": "The National Nordic Museum (previously Nordic Heritage Museum and then Nordic Museum) is a museum in the Ballard neighborhood of Seattle, Washington, United States, dedicated to the Nordic history, art, culture, and the heritage of the area's Nordic immigrants. It was founded in 1980 as the Nordic Heritage Museum, moved into a permanent, purpose-built facility in 2018 named the Nordic Museum, and was designated as the National Nordic Museum in 2019.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:klondike-gold-rush-national-historical-park": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:log-house-museum": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pacific-science-center": {
+      "title": "Pacific Science Center",
+      "url": "https://en.wikipedia.org/wiki/Pacific_Science_Center",
+      "extract": "Pacific Science Center (PacSci) is a nonprofit science education organization in Seattle, Washington, United States. Its main science museum is on the ground of the Seattle Center near Downtown Seattle with auxiliary facilities in Bellevue, Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-aquarium": {
+      "title": "Seattle Aquarium",
+      "url": "https://en.wikipedia.org/wiki/Seattle_Aquarium",
+      "extract": "The Seattle Aquarium is a public aquarium in Seattle, Washington, United States, located on Pier 59 and 60 on the Elliott Bay waterfront. The aquarium opened in 1977 and is accredited by the Association of Zoos and Aquariums (AZA).",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:woodland-park-zoo": {
+      "title": "Woodland Park Zoo",
+      "url": "https://en.wikipedia.org/wiki/Woodland_Park_Zoo",
+      "extract": "Woodland Park Zoo is a wildlife conservation organization and zoological garden located in the Phinney Ridge neighborhood of Seattle, Washington, United States. The zoo is the recipient of over 65 awards across multiple categories.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-children-s-museum": {
+      "title": "Seattle Children's Museum",
+      "url": "https://en.wikipedia.org/wiki/Seattle_Children%27s_Museum",
+      "extract": "The Seattle Children's Museum in Seattle is located on the lowest floor of the Armory at the Seattle Center. Founded in 1979 with a single exhibit, the museum currently features 18,000 sq feet of play space with 11 exhibits designed for kids 6 months to 8 years.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:museum-of-pop-culture": {
+      "title": "Museum of Pop Culture",
+      "url": "https://en.wikipedia.org/wiki/Museum_of_Pop_Culture",
+      "extract": "The Museum of Pop Culture (or MOPOP) is a nonprofit museum in Seattle, Washington, United States, dedicated to contemporary popular culture. It was founded by Microsoft co-founder Paul Allen in 2000 as the Experience Music Project.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-pinball-museum": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:connections-museum": {
+      "title": "Connections Museum Seattle",
+      "url": "https://en.wikipedia.org/wiki/Connections_Museum_Seattle",
+      "extract": "The Connections Museum Seattle is located in Lumen's Duwamish Central Office at East Marginal Way S. and Corson Avenue S. in Seattle's Georgetown neighborhood.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:last-resort-fire-department-museum": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:holocaust-center-for-humanity": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:gates-foundation-discovery-center": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:sea-mar-museum-of-chicano-a-latino-a-culture": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:duwamish-longhouse": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:daybreak-star-indian-cultural-center": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:japanese-cultural-and-community-center-of-washington": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:wa-na-wari": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:langston-hughes-performing-arts-institute": {
+      "title": "Langston Hughes Performing Arts Institute",
+      "url": "https://en.wikipedia.org/wiki/Langston_Hughes_Performing_Arts_Institute",
+      "extract": "The Langston Hughes Performing Arts Institute is a cultural, artistic, and educational center for community that focuses on Black and African American art, artists, and audiences. The center is located at 104 17th Avenue South, in the Central District of Seattle, Washington, in the United States.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pratt-fine-arts-center": {
+      "title": "Pratt Fine Arts Center",
+      "url": "https://en.wikipedia.org/wiki/Pratt_Fine_Arts_Center",
+      "extract": "Pratt Fine Arts Center is a non-profit arts education and resource center in the Squire Park area of Seattle's Central District. The center employs 155 teaching artists and conducts more than 600 classes annually.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:hugo-house": {
+      "title": "Hugo House",
+      "url": "https://en.wikipedia.org/wiki/Hugo_House",
+      "extract": "Hugo House is a non-profit community writing center in Seattle, Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:town-hall-seattle": {
+      "title": "Town Hall Seattle",
+      "url": "https://en.wikipedia.org/wiki/Town_Hall_Seattle",
+      "extract": "Town Hall Seattle, or Town Hall locally, is a cultural center and performance hall located on Seattle, Washington, USA's First Hill at 1119 8th Ave. Built as Fourth Church of Christ, Scientist, Seattle, a Church of Christ, Scientist church, from 1916 to 1922, it was sold by the church to its current owners in 1998 and reopened in 1999.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:arts-at-king-street-station": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:el-centro-de-la-raza": {
+      "title": "El Centro de la Raza",
+      "url": "https://en.wikipedia.org/wiki/El_Centro_de_la_Raza",
+      "extract": "El Centro de la Raza in Seattle, Washington, United States, is an educational, cultural, and social service agency, centered in the Latino/Chicano community and headquartered in the former Beacon Hill Elementary School on Seattle's Beacon Hill. It was founded in 1972 and continues to serve clients in Seattle, King County and beyond.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:center-for-wooden-boats": {
+      "title": "Center for Wooden Boats",
+      "url": "https://en.wikipedia.org/wiki/Center_for_Wooden_Boats",
+      "extract": "The Center for Wooden Boats (CWB) is a museum dedicated to preserving and documenting the maritime history of the Pacific Northwest area of the United States. CWB was founded by Dick Wagner in Seattle in the 1970s and has grown to include three sites; the South Lake Union campus in Lake Union Park, the Northlake Workshop & Warehouse at the north end of Lake Union, and The Center for Wooden Boats at Cama Beach State Park on Camano Island.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pike-place-market": {
+      "title": "Pike Place Market",
+      "url": "https://en.wikipedia.org/wiki/Pike_Place_Market",
+      "extract": "Pike Place Market is a public market in Seattle, Washington, United States. It opened on August 17, 1907, and is one of the older continuously operated public farmers' markets in the United States.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pike-place-fish-market": {
+      "title": "Pike Place Fish Market",
+      "url": "https://en.wikipedia.org/wiki/Pike_Place_Fish_Market",
+      "extract": "Pike Place Fish Market is an open-air fish market at Pike Place Market in Seattle, Washington, United States, located at the corner of Pike Street and Pike Place. Founded in 1930, it is known for its tradition of fishmongers throwing the fish purchased by customers before wrapping it.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:rachel-the-pig": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:gum-wall": {
+      "title": "Gum Wall",
+      "url": "https://en.wikipedia.org/wiki/Gum_Wall",
+      "extract": "The Gum Wall is a brick wall situated beneath Pike Place Market in Seattle, Washington, United States. Located on Post Alley near Pike Street, south of the market's main entrance off 1st Avenue, the wall is covered with used chewing gum.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:post-alley": {
+      "title": "Post Alley",
+      "url": "https://en.wikipedia.org/wiki/Post_Alley",
+      "extract": "Post Alley is a short street in Seattle. The northern end of the street runs under and through Pike Place Market.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:marketfront": {
+      "title": "MarketFront",
+      "url": "https://en.wikipedia.org/wiki/MarketFront",
+      "extract": "The MarketFront is an addition to Seattle's Pike Place Market. Designed by Miller Hull Partnership, The $74 million expansion was unveiled in 2017.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:international-fountain": {
+      "title": "International Fountain",
+      "url": "https://en.wikipedia.org/wiki/International_Fountain",
+      "extract": "The International Fountain is a concrete fountain and sculpture installed in Seattle Center in the U.S. state of Washington, designed by Tokyo-based architects Kazuyuki Matsushita and Hideki Shimizu during 1961–1962 for the Century 21 Exposition (also known as the Seattle World's Fair).",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:artists-at-play-playground": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:smith-tower": {
+      "title": "Smith Tower",
+      "url": "https://en.wikipedia.org/wiki/Smith_Tower",
+      "extract": "Smith Tower is a skyscraper in the Pioneer Square neighborhood of Seattle, Washington, United States. Completed in 1914, the 38-story, 462 ft (141 m) tower was among the tallest skyscrapers outside New York City at the time of its completion.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:sky-view-observatory": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:king-street-station": {
+      "title": "King Street Station",
+      "url": "https://en.wikipedia.org/wiki/King_Street_Station",
+      "extract": "King Street Station is a train station in Seattle, Washington, United States. It is served by Amtrak's Cascades, Coast Starlight, and Empire Builder, as well as Sounder commuter trains run by Sound Transit.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:the-spheres": {
+      "title": "Amazon Spheres",
+      "url": "https://en.wikipedia.org/wiki/Amazon_Spheres",
+      "extract": "The Amazon Spheres are three spherical conservatories comprising part of the Amazon headquarters campus in Seattle, Washington, United States. Designed by NBBJ and landscape firm Site Workshop, its three glass domes are covered in pentagonal hexecontahedron panels and serve as an employee lounge and workspace.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:ballard-locks-and-fish-ladder": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fishermen-s-terminal": {
+      "title": "Fishermen's Terminal",
+      "url": "https://en.wikipedia.org/wiki/Fishermen%27s_Terminal",
+      "extract": "Fishermen's Terminal is a dock opened in 1914 and operated by the Port of Seattle as the home port for Seattle's commercial fishing fleet, and, since 2002, non-commercial pleasure craft. The Terminal is on Salmon Bay in the Interbay neighborhood, east of the Hiram M. Chittenden Locks and immediately west of the Ballard Bridge.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:west-point-lighthouse": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:alki-point-lighthouse": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:west-seattle-water-taxi": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:bainbridge-ferry-ride": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:hammering-man": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:black-sun": {
+      "title": "Black Sun (sculpture)",
+      "url": "https://en.wikipedia.org/wiki/Black_Sun_(sculpture)",
+      "extract": "Black Sun is a 1969 sculpture by Isamu Noguchi located in Seattle, Washington's Volunteer Park. The statue is situated on the eastern edge of the park's man-made reservoir, across from the Seattle Asian Art Museum.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:chief-seattle-statue": {
+      "title": "Statue of Chief Seattle",
+      "url": "https://en.wikipedia.org/wiki/Statue_of_Chief_Seattle",
+      "extract": "An outdoor life-size sculpture of Chief Seattle by local artist James Wehn is installed in Tilikum Place in Seattle, Washington, in the United States.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:bruce-and-brandon-lee-graves": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:jimi-hendrix-statue": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:underground-tour": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:beneath-the-streets": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:st-james-cathedral": {
+      "title": "St. James Cathedral (Seattle)",
+      "url": "https://en.wikipedia.org/wiki/St._James_Cathedral_(Seattle)",
+      "extract": "St. James Cathedral is a Catholic cathedral located at 804 Ninth Avenue in the First Hill neighborhood of Seattle, Washington, United States.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fremont-troll": {
+      "title": "Fremont Troll",
+      "url": "https://en.wikipedia.org/wiki/Fremont_Troll",
+      "extract": "The Fremont Troll (also known as The Troll, or the Troll Under the Bridge) is a public sculpture in Fremont, Seattle, Washington, United States.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fremont-rocket": {
+      "title": "Fremont Rocket",
+      "url": "https://en.wikipedia.org/wiki/Fremont_Rocket",
+      "extract": "The Fremont Rocket is a sculpture of a rocket in the Fremont neighborhood of Seattle, Washington, US. The rocket had been displayed at an army surplus store in Seattle's Belltown neighborhood until 1991, when a news radio broadcast said the store was dismantling its \"circa 1950 Cold War rocket fuselage [sic]\", prompting the Fremont Business Association to buy it for $750. The Business Association took a few years to overcome problems with assembling and erecting the rocket, finally placing it at its current location at N 35th St.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:waiting-for-the-interurban": {
+      "title": "Waiting for the Interurban",
+      "url": "https://en.wikipedia.org/wiki/Waiting_for_the_Interurban",
+      "extract": "Waiting for the Interurban, also known as People Waiting for the Interurban, is a 1978 cast aluminum sculpture collection in the Fremont neighborhood of Seattle. It is located on the southeast corner of N. 34th Street and Fremont Avenue N., just east of the northern end of the Fremont Bridge.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:lenin-statue": {
+      "title": "Statue of Lenin (Seattle)",
+      "url": "https://en.wikipedia.org/wiki/Statue_of_Lenin_(Seattle)",
+      "extract": "The Statue of Lenin is a 16-foot (5 m) bronze statue of Russian communist revolutionary Vladimir Lenin in the Fremont neighborhood of Seattle, Washington, United States. It was created by Bulgarian-born Slovak sculptor Emil Venkov and initially put on display in the Czechoslovak Socialist Republic in 1988, the year before the Velvet Revolution.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:hat-n-boots": {
+      "title": "Hat 'n' Boots",
+      "url": "https://en.wikipedia.org/wiki/Hat_%27n%27_Boots",
+      "extract": "Hat 'n' Boots is a roadside attraction and landmark in the Georgetown neighborhood of Seattle, Washington. It was designed by commercial artist Lewis Naysmith, with permit drawings by architect, Albert Poe.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:uw-quad": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:suzzallo-library-reading-room": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:drumheller-fountain": {
+      "title": "Drumheller Fountain",
+      "url": "https://en.wikipedia.org/wiki/Drumheller_Fountain",
+      "extract": "Drumheller Fountain is an outdoor fountain on the University of Washington campus in Seattle, Washington, in the United States. The fountain was given its name in 1961 to honor the University Regent Joseph Drumheller, who gifted the central fountain machinery to the University for its centennial celebration.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:rainier-vista": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:espresso-vivace": {
+      "title": "Espresso Vivace",
+      "url": "https://en.wikipedia.org/wiki/Espresso_Vivace",
+      "extract": "Espresso Vivace is a Seattle area coffee shop and roaster known for its coffee and roasting practices. Vivace's owner, David Schomer, is credited with developing and popularizing latte art in the United States.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:cafe-allegro": {
+      "title": "Café Allegro",
+      "url": "https://en.wikipedia.org/wiki/Caf%C3%A9_Allegro",
+      "extract": "Café Allegro is a coffeeshop in the University District of Seattle, Washington, United States. It is notable for being one of the city's first espresso shops and for its role in the history of Starbucks, as the place where founding proprietor Dave Olsen designed the Starbucks coffee product line.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:lighthouse-roasters": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:caffe-vita": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:victrola-coffee": {
+      "title": "Victrola Coffee Roasters",
+      "url": "https://en.wikipedia.org/wiki/Victrola_Coffee_Roasters",
+      "extract": "Victrola Coffee Roasters is a coffee roasting company with multiple locations in Seattle, Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:caffe-ladro": {
+      "title": "Caffe Ladro",
+      "url": "https://en.wikipedia.org/wiki/Caffe_Ladro",
+      "extract": "Caffe Ladro is a coffee shop chain and roastery in the Seattle metropolitan area, in the U.S. state of Washington. Established in Seattle's Queen Anne neighborhood in 1994, the business operated fifteen locations as of 2017.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:caffe-umbria": {
+      "title": "Caffè Umbria",
+      "url": "https://en.wikipedia.org/wiki/Caff%C3%A8_Umbria",
+      "extract": "Caffè Umbria is a coffee roaster based in Seattle, Washington, United States. The chain has been described as \"an Italian family business\".",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:herkimer-coffee": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:zoka-coffee": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:monorail-espresso": {
+      "title": "Monorail Espresso",
+      "url": "https://en.wikipedia.org/wiki/Monorail_Espresso",
+      "extract": "Monorail Espresso is a coffeehouse in Seattle. It is notable as having been founded as the first espresso cart in the world.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:uptown-espresso": {
+      "title": "Uptown Espresso",
+      "url": "https://en.wikipedia.org/wiki/Uptown_Espresso",
+      "extract": "Uptown Espresso is a small chain of coffee shops in Seattle, Washington, United States. The original location opened in Lower Queen Anne in 1984 and has had as many as eight locations.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fremont-coffee-company": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:cloud-city-coffee": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:couth-buzzard": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:milstead-and-co": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:analog-coffee": {
+      "title": "Analog Coffee",
+      "url": "https://en.wikipedia.org/wiki/Analog_Coffee",
+      "extract": "Analog Coffee is a coffee shop on Seattle's Capitol Hill, in the U.S. state of Washington. The business is co-owned by Danny Hanlon and Tim Hayden.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:ghost-note-coffee": {
+      "title": "Ghost Note Coffee",
+      "url": "https://en.wikipedia.org/wiki/Ghost_Note_Coffee",
+      "extract": "Ghost Note Coffee is a coffee shop on Capitol Hill, in Seattle, Washington. Christos Andrews and Lee Hampton opened the coffee shop on Bellevue Avenue on March 14, 2017.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:elm-coffee-roasters": {
+      "title": "Elm Coffee Roasters",
+      "url": "https://en.wikipedia.org/wiki/Elm_Coffee_Roasters",
+      "extract": "Elm Coffee Roasters is a coffee shop in Seattle's Pioneer Square, in the U.S. state of Washington. It has operated two locations.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:anchorhead-coffee": {
+      "title": "Anchorhead Coffee",
+      "url": "https://en.wikipedia.org/wiki/Anchorhead_Coffee",
+      "extract": "Anchorhead Coffee is coffee company founded and based in Seattle, in the U.S. state of Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fulcrum-coffee": {
+      "title": "Fulcrum Coffee",
+      "url": "https://en.wikipedia.org/wiki/Fulcrum_Coffee",
+      "extract": "Fulcrum Coffee Roasters, or simply Fulcrum Coffee, is a coffee company based in Seattle, in the U.S. state of Washington. The business operates a roastery in SoDo as well as a shop in Belltown known as Fulcrum Café.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:cafe-hagen": {
+      "title": "Café Hagen",
+      "url": "https://en.wikipedia.org/wiki/Caf%C3%A9_Hagen",
+      "extract": "Café Hagen is a small chain of Scandinavian bakeries and coffee shops in Seattle, in the U.S. state of Washington. Founded by owner Maria Beck in December 2019, the business has operated in South Lake Union, downtown Seattle, and Queen Anne.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:sound-and-fog": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:boon-boona": {
+      "title": "Boon Boona Coffee",
+      "url": "https://en.wikipedia.org/wiki/Boon_Boona_Coffee",
+      "extract": "Boon Boona Coffee is a Black-owned coffee roaster and coffeehouse with two locations in the U.S. state of Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:cafe-avole": {
+      "title": "Café Avole",
+      "url": "https://en.wikipedia.org/wiki/Caf%C3%A9_Avole",
+      "extract": "Café Avole, also known as Avole Coffee, is a coffee roasting company that also operates two coffee shops in Seattle, in the U.S. state of Washington. The business launched in Brighton, and operates on East Union Street in the Central District, and on Rainier Avenue South in Rainier Valley.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:hello-em": {
+      "title": "Hello Em",
+      "url": "https://en.wikipedia.org/wiki/Hello_Em",
+      "extract": "Hello Em Việt Coffee & Roastery, or simply Hello Em, is a Vietnamese coffee shop in Seattle, in the U.S. state of Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:phin": {
+      "title": "Phin (restaurant)",
+      "url": "https://en.wikipedia.org/wiki/Phin_(restaurant)",
+      "extract": "Phin Vietnamse Coffee & Etc, or simply Phin, is a Vietnamese coffee shop in Seattle's Chinatown–International District, in the U.S. state of Washington. Owner Bao Nguyen opened the cafe in October 2020.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:coffeeholic-house": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:phe": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:push-x-pull": {
+      "title": "Push x Pull",
+      "url": "https://en.wikipedia.org/wiki/Push_x_Pull",
+      "extract": "Push x Pull is a coffee company based in Portland, Oregon, United States. The business has also operated in Seattle's Central District.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:ancient-gate-coffee": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:mr-west": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:slow-day-coffee": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:cardoon": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:day-made-kaffe-bar": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:starbucks-at-1912-pike-place": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:dick-s-drive-in": {
+      "title": "Dick's Drive-In",
+      "url": "https://en.wikipedia.org/wiki/Dick%27s_Drive-In",
+      "extract": "Dick's Drive-In Restaurants, Inc., or simply Dick's, is an American regional chain of fast-food restaurants located in the Seattle metropolitan area. It was founded in Seattle's Wallingford neighborhood in 1954 by Dick Spady, H. Warren Ghormley, and Dr.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:ivar-s-acres-of-clams": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:ivar-s-salmon-house": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:canlis": {
+      "title": "Canlis",
+      "url": "https://en.wikipedia.org/wiki/Canlis",
+      "extract": "Canlis is a fine dining restaurant serving New American and Pacific Northwest cuisine in Seattle, Washington. Situated in the Queen Anne neighborhood, the restaurant has views of Gas Works Park and the Cascade Mountains.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:maneki": {
+      "title": "Maneki",
+      "url": "https://en.wikipedia.org/wiki/Maneki",
+      "extract": "Maneki is a Japanese restaurant in the Japantown area of the International District in Seattle, Washington that opened in 1904 as the first sushi bar in the city. Some claim it is the oldest Asian restaurant on the West Coast of the United States, and it is recognized as one of the oldest sushi restaurants in the United States.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:tai-tung": {
+      "title": "Tai Tung (restaurant)",
+      "url": "https://en.wikipedia.org/wiki/Tai_Tung_(restaurant)",
+      "extract": "Tai Tung is the oldest surviving Chinese restaurant in the International District of Seattle. It was opened in 1935 by an immigrant from Hong Kong.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pho-bac": {
+      "title": "Phở Bắc",
+      "url": "https://en.wikipedia.org/wiki/Ph%E1%BB%9F_B%E1%BA%AFc",
+      "extract": "Phở Bắc is a chain of Vietnamese restaurants in Seattle, in the U.S. state of Washington. The restaurants specialize in phở dishes and have several locations in the city.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:the-athenian": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:lowell-s": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:beecher-s": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:three-girls-bakery": {
+      "title": "Three Girls Bakery",
+      "url": "https://en.wikipedia.org/wiki/Three_Girls_Bakery",
+      "extract": "Three Girls Bakery is a bakery at Seattle's Pike Place Market, in the U.S. state of Washington. The business was founded by three women in 1912.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:market-grill": {
+      "title": "Market Grill",
+      "url": "https://en.wikipedia.org/wiki/Market_Grill",
+      "extract": "Market Grill is a restaurant at Pike Place Market, in the U.S. state of Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:oriental-mart": {
+      "title": "Oriental Mart",
+      "url": "https://en.wikipedia.org/wiki/Oriental_Mart",
+      "extract": "Oriental Mart is a Filipino restaurant in Seattle's Pike Place Market, in the U.S. state of Washington. In 2020, the business received an 'America's Classics' award the James Beard Foundation.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:le-pichet": {
+      "title": "Le Pichet",
+      "url": "https://en.wikipedia.org/wiki/Le_Pichet",
+      "extract": "Le Pichet is a French restaurant in Seattle, in the U.S. state of Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:the-pink-door": {
+      "title": "The Pink Door",
+      "url": "https://en.wikipedia.org/wiki/The_Pink_Door",
+      "extract": "The Pink Door is a restaurant in Seattle's Pike Place Market, in the U.S. state of Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:matt-s-in-the-market": {
+      "title": "Matt's in the Market",
+      "url": "https://en.wikipedia.org/wiki/Matt%27s_in_the_Market",
+      "extract": "Matt's in the Market is a restaurant in Seattle's Pike Place Market, in the U.S. state of Washington.\nThe menu changes based on the season, and has included fish, fresh vegetables and organic meats, seafood paella made with clams, mussels, octopus and prawns, as well as deviled eggs.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:ray-s-boathouse": {
+      "title": "Ray's Boathouse",
+      "url": "https://en.wikipedia.org/wiki/Ray%27s_Boathouse",
+      "extract": "Ray's Boathouse is a restaurant in the Ballard neighborhood of Seattle, Washington, United States, located on Shilshole Bay along the Puget Sound shoreline. It is noted for its seafood and views of Puget Sound and the Olympic Mountains, and has been listed as one of the city's top restaurants alongside The Herbfarm.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:the-lockspot": {
+      "title": "Lockspot Cafe",
+      "url": "https://en.wikipedia.org/wiki/Lockspot_Cafe",
+      "extract": "Lockspot Cafe is a restaurant in Seattle's Ballard neighborhood, in the U.S. state of Washington. The restaurant has operated for 90 years, as of 2020.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:chinook-s": {
+      "title": "Seattle Chinooks",
+      "url": "https://en.wikipedia.org/wiki/Seattle_Chinooks",
+      "extract": "The Seattle Chinooks were a minor league baseball team based in Seattle, Washington. In 1903, the Seattle Chinooks became charter members of the Class A level Pacific National League, placing third in their only season of play.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:beth-s-cafe": {
+      "title": "Beth's Cafe",
+      "url": "https://en.wikipedia.org/wiki/Beth%27s_Cafe",
+      "extract": "Beth's Cafe is a restaurant in Seattle, Washington, United States. Located on Aurora Avenue North in the Green Lake neighborhood, it is known largely for its \"greasy spoon\" cuisine and large portions.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:ezell-s": {
+      "title": "Ezell's Chicken",
+      "url": "https://en.wikipedia.org/wiki/Ezell%27s_Chicken",
+      "extract": "Ezell's Famous Chicken is a Seattle fast food restaurant. The first restaurant was opened on February 3, 1984, in Seattle's Central District neighborhood, near Garfield High School.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:un-bien": {
+      "title": "Un Bien",
+      "url": "https://en.wikipedia.org/wiki/Un_Bien",
+      "extract": "Un Bien is a Caribbean restaurant with three locations in Seattle, in the U.S. state of Washington.\nThe first Ballard restaurant was opened on June 3, 2015, by Julian and Lucas Lorenzo, the sons of original Paseo owner Lorenzo Lorenzo, who had closed the restaurant and declared bankruptcy following allegations of wage theft and racial discrimination.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:paseo": {
+      "title": "Paseo (restaurant)",
+      "url": "https://en.wikipedia.org/wiki/Paseo_(restaurant)",
+      "extract": "Paseo is a chain of Caribbean sandwich shops based in Seattle, Washington, United States. It was founded in 1994 and went bankrupt in 2014 before being revived under new ownership the following year.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:salumi": {
+      "title": "Salumi (restaurant)",
+      "url": "https://en.wikipedia.org/wiki/Salumi_(restaurant)",
+      "extract": "Salumi is a salumeria and restaurant in the Pioneer Square neighborhood of downtown Seattle, Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:marination-ma-kai": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:salty-s-on-alki": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:tacos-chukis": {
+      "title": "Tacos Chukis",
+      "url": "https://en.wikipedia.org/wiki/Tacos_Chukis",
+      "extract": "Tacos Chukis is a chain of Mexican restaurants with multiple locations in Seattle, in the U.S. state of Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:tilikum-place-cafe": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:bakery-nouveau": {
+      "title": "Bakery Nouveau",
+      "url": "https://en.wikipedia.org/wiki/Bakery_Nouveau",
+      "extract": "Bakery Nouveau is a small chain of bakeries in the U.S. state of Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:macrina-bakery": {
+      "title": "Macrina Bakery",
+      "url": "https://en.wikipedia.org/wiki/Macrina_Bakery",
+      "extract": "Macrina Bakery is a small chain of bakeries in the Seattle metropolitan area, in the U.S. state of Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:sea-wolf-bakers": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:saint-bread": {
+      "title": "Saint Bread",
+      "url": "https://en.wikipedia.org/wiki/Saint_Bread",
+      "extract": "Saint Bread is a bakery in Seattle, in the U.S. state of Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:le-panier": {
+      "title": "Le Panier",
+      "url": "https://en.wikipedia.org/wiki/Le_Panier",
+      "extract": "Le Panier is a bakery and pasty shop at Seattle's Pike Place Market, in the U.S. state of Washington. The business was established in 1983.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:dahlia-bakery": {
+      "title": "Dahlia Bakery",
+      "url": "https://en.wikipedia.org/wiki/Dahlia_Bakery",
+      "extract": "Dahlia Bakery is a pastry shop in Seattle's Belltown neighborhood, in the U.S. state of Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fuji-bakery": {
+      "title": "Fuji Bakery",
+      "url": "https://en.wikipedia.org/wiki/Fuji_Bakery",
+      "extract": "Fuji Bakery is a bakery with multiple locations in the Seattle metropolitan area, in the U.S. state of Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:hood-famous": {
+      "title": "Hood Famous",
+      "url": "https://en.wikipedia.org/wiki/Hood_Famous",
+      "extract": "Hood Famous Cafe and Bar, also known as Hood Famous Bakeshop or simply Hood Famous, is a Filipino bakery with two locations in Seattle, in the U.S. state of Washington. Operating in Ballard and the Chinatown–International District (C-ID), the business is co-owned by spouses Chera Amlag and Geo Quibuyen of Blue Scholars (also known as Prometheus Brown).",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:temple-pastries": {
+      "title": "Temple Pastries",
+      "url": "https://en.wikipedia.org/wiki/Temple_Pastries",
+      "extract": "Temple Pastries is a bakery in Seattle's Central District, in the U.S. state of Washington. Christina Wood started the business as a pop-up in 2018, and relocated to a brick-and-mortar restaurant in partnership with Broadcast Coffee Roasters in 2020.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:columbia-city-bakery": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:larsen-s-bakery": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:coyle-s-bakeshop": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:mighty-o-donuts": {
+      "title": "Mighty-O Donuts",
+      "url": "https://en.wikipedia.org/wiki/Mighty-O_Donuts",
+      "extract": "Mighty-O Donuts is a chain of donut cafe restaurants and a donut wholesaler in Seattle, Washington, founded in 2000. Their donuts and toppings are made in Seattle from scratch using organic, 100% Plant-Based NON-GMO ingredients.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:top-pot-doughnuts": {
+      "title": "Top Pot Doughnuts",
+      "url": "https://en.wikipedia.org/wiki/Top_Pot_Doughnuts",
+      "extract": "Top Pot Doughnuts is a chain of coffee and doughnut cafes started in the Capitol Hill neighborhood of Seattle, Washington.\nTop Pot began in February 2002 and was started by brothers Mark and Michael Klebeck.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:daily-dozen-doughnut-company": {
+      "title": "Daily Dozen Doughnut Company",
+      "url": "https://en.wikipedia.org/wiki/Daily_Dozen_Doughnut_Company",
+      "extract": "Daily Dozen Doughnut Company is a doughnut shop at Seattle's Pike Place Market, in the U.S. state of Washington. Established by two sisters in 1978, the stall in the Economy Market features a \"Donut Robot\", and is widely known for its hot, freshly made bite-sized doughnuts that are served in a paper bag.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:molly-moon-s": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:husky-deli": {
+      "title": "Husky Deli",
+      "url": "https://en.wikipedia.org/wiki/Husky_Deli",
+      "extract": "Husky Deli is a restaurant in Seattle, in the U.S. state of Washington. Established as the Edgewood Farm Store by Herman Miller, the business has operated in West Seattle since 1932 or 1933.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:shug-s-soda-fountain": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:merchants-cafe": {
+      "title": "Merchant's Cafe",
+      "url": "https://en.wikipedia.org/wiki/Merchant%27s_Cafe",
+      "extract": "Merchant's Cafe is a restaurant in Seattle, in the U.S. state of Washington. Located at the corner of James and Yesler since 1890, the reportedly haunted restaurant bills itself as the city's oldest.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:central-saloon": {
+      "title": "Central Saloon",
+      "url": "https://en.wikipedia.org/wiki/Central_Saloon",
+      "extract": "Central Saloon is a bar, restaurant and music venue in Seattle, in the U.S. state of Washington. Established in 1892, the bar is among the city's oldest.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:shorty-s": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:the-5-point": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:hattie-s-hat": {
+      "title": "Hattie's Hat",
+      "url": "https://en.wikipedia.org/wiki/Hattie%27s_Hat",
+      "extract": "Hattie's Hat is a restaurant in Seattle's Ballard neighborhood, in the U.S. state of Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:the-sloop": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:linda-s-tavern": {
+      "title": "Linda's Tavern",
+      "url": "https://en.wikipedia.org/wiki/Linda%27s_Tavern",
+      "extract": "Linda's Tavern is a bar and restaurant in the Capitol Hill neighborhood of Seattle, Washington, United States.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:comet-tavern": {
+      "title": "Comet Tavern",
+      "url": "https://en.wikipedia.org/wiki/Comet_Tavern",
+      "extract": "Comet Tavern is a restaurant on Seattle's Capitol Hill, in the U.S. state of Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:crescent-lounge": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:unicorn": {
+      "title": "Unicorn (Seattle)",
+      "url": "https://en.wikipedia.org/wiki/Unicorn_(Seattle)",
+      "extract": "Unicorn (sometimes Unicorn Bar) is a bar and restaurant on Seattle's Capitol Hill, in the United States.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:canon": {
+      "title": "Canon (bar)",
+      "url": "https://en.wikipedia.org/wiki/Canon_(bar)",
+      "extract": "Canon is a cocktail bar in Seattle, Washington, United States. Located on 12th Avenue near Seattle University, the bar has been recognized for having the \"World's Best Spirits Selection\".",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:bathtub-gin-and-co": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:foreign-national": {
+      "title": "Foreign National (bar)",
+      "url": "https://en.wikipedia.org/wiki/Foreign_National_(bar)",
+      "extract": "Foreign National was a bar and restaurant in Seattle, Washington, United States. It operated from 2016 to 2025.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fremont-brewing": {
+      "title": "Fremont Brewing",
+      "url": "https://en.wikipedia.org/wiki/Fremont_Brewing",
+      "extract": "Fremont Brewing is a brewery located in the West Woodland area of the Ballard neighborhood of Seattle, Washington, United States, with a taproom and beer garden located in the Fremont neighborhood. The brewery creates small-batch artisan beers and was founded in 2009 by Sara Nelson and Matt Lincecum.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:georgetown-brewing": {
+      "title": "Georgetown Brewing Company",
+      "url": "https://en.wikipedia.org/wiki/Georgetown_Brewing_Company",
+      "extract": "Georgetown Brewing Company is a brewery in Seattle's Georgetown neighborhood, USA. It originally sold only draft beer and for a time was the largest draft-only brewery in the United States. In May 2017 Georgetown began to offer its Bodhizafa IPA, Lucille IPA, and Roger's Pilsner in 12 oz.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:reuben-s-brews": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:stoup-brewing": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:urban-family-brewing": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:holy-mountain-brewing": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:third-place-books-ravenna": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:university-book-store": {
+      "title": "University Book Store",
+      "url": "https://en.wikipedia.org/wiki/University_Book_Store",
+      "extract": "University Book Store is an independent and privately owned bookstore headquartered in the University District of Seattle, Washington, United States. University Book Store began serving the University of Washington in 1900, and is the oldest and largest independent bookstore in Washington State.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:magus-books": {
+      "title": "Magus Books",
+      "url": "https://en.wikipedia.org/wiki/Magus_Books",
+      "extract": "Magus Books is a used bookstore in Seattle's University District, in the U.S. state of Washington.\nThe Seattle Times has said: \"Featuring a broad selection of books to meet any interest, Magus Books has been a fixture for University of Washington students for over four decades.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:twice-sold-tales": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:open-books": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:arundel-books": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:book-larder": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:charlie-s-queer-books": {
+      "title": "Charlie's Queer Books",
+      "url": "https://en.wikipedia.org/wiki/Charlie%27s_Queer_Books",
+      "extract": "Charlie's Queer Books is an independent bookstore located at 465 N 36th St in Seattle, Washington. The store was founded in 2023 by Charlie Hunts, a transgender man with a background in publishing and brand marketing.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:phinney-books": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:secret-garden-books": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:queen-anne-book-company": {
+      "title": "Queen Anne Book Company",
+      "url": "https://en.wikipedia.org/wiki/Queen_Anne_Book_Company",
+      "extract": "Queen Anne Book Company is an independent bookstore in Seattle, Washington, United States. The shop has a large collection of contemporary and children's literature.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fantagraphics-bookstore": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:kinokuniya": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:estelita-s-library": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:easy-street-records": {
+      "title": "Easy Street Records",
+      "url": "https://en.wikipedia.org/wiki/Easy_Street_Records",
+      "extract": "Easy Street Records is an independent record store located in Seattle, Washington. Easy Street opened its store in West Seattle in 1988, and later added a cafe/bar, which serves coffee, breakfast, lunch, beer, wine, and cocktails.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:sonic-boom-records": {
+      "title": "Sonic Boom Records",
+      "url": "https://en.wikipedia.org/wiki/Sonic_Boom_Records",
+      "extract": "Sonic Boom Records is an independent record store located in Seattle, Washington. The store was opened by Jason Hughes and Nabil Ayers on September 26, 1997.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:scarecrow-video": {
+      "title": "Scarecrow Video",
+      "url": "https://en.wikipedia.org/wiki/Scarecrow_Video",
+      "extract": "Scarecrow Video is an independently owned, non-profit video sales and rental store in Seattle, Washington, United States. It was founded in 1988 and is based in the University District neighborhood.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:archie-mcphee": {
+      "title": "Archie McPhee",
+      "url": "https://en.wikipedia.org/wiki/Archie_McPhee",
+      "extract": "Archie McPhee is a Seattle-based novelty dealer owned by Mark Pahlow. Begun in the 1970s in Los Angeles as the mail-order business Accoutrements, in 1983 it opened a retail outlet dubbed \"Archie McPhee\" after Pahlow's wife's great-uncle.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:ye-olde-curiosity-shop": {
+      "title": "Ye Olde Curiosity Shop",
+      "url": "https://en.wikipedia.org/wiki/Ye_Olde_Curiosity_Shop",
+      "extract": "Ye Olde Curiosity Shop is a store founded in 1899, on the Central Waterfront of Seattle, Washington, United States. It is currently located on Pier 54.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:georgetown-trailer-park-mall": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-antiques-market": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:old-seattle-paperworks": {
+      "title": "Old Seattle Paperworks",
+      "url": "https://en.wikipedia.org/wiki/Old_Seattle_Paperworks",
+      "extract": "Old Seattle Paperworks is a shop at Seattle's Pike Place Market, in the U.S. state of Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:uwajimaya": {
+      "title": "Uwajimaya",
+      "url": "https://en.wikipedia.org/wiki/Uwajimaya",
+      "extract": "Uwajimaya, Inc., doing business as Uwajimaya Asian Grocery & Gift Markets (宇和島屋, Uwajimaya), is a family-owned supermarket chain with its corporate headquarters in the International District, Seattle, Washington, and with locations in Greater Seattle and Oregon. Uwajimaya sells mainly Asian food—with an emphasis on Japanese—though it also stocks Western staples.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:delaurenti": {
+      "title": "Christopher DeLaurenti",
+      "url": "https://en.wikipedia.org/wiki/Christopher_DeLaurenti",
+      "extract": "Christopher DeLaurenti (born 1977) is a Seattle-based composer, improvisor and phonographer. A new music rabble-rouser, he also writes music reviews and articles.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:rei-flagship": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:add-a-ball": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:jupiter-bar": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:mox-boarding-house": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:raygun-lounge": {
+      "title": "Raygun Lounge",
+      "url": "https://en.wikipedia.org/wiki/Raygun_Lounge",
+      "extract": "Raygun Lounge is a gaming venue in Seattle's Capitol Hill neighborhood, in the U.S. state of Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:gameworks": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:flatstick-pub": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:kraken-community-iceplex": {
+      "title": "Kraken Community Iceplex",
+      "url": "https://en.wikipedia.org/wiki/Kraken_Community_Iceplex",
+      "extract": "The Kraken Community Iceplex is the practice facility and team headquarters of the Seattle Kraken of the National Hockey League (NHL). It opened on September 10, 2021, and is located within the Northgate Station mixed-use development in the Northgate neighborhood of Seattle, Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:the-showbox": {
+      "title": "The Showbox",
+      "url": "https://en.wikipedia.org/wiki/The_Showbox",
+      "extract": "The Showbox (originally known as the Showbox Theater) is a music venue in Seattle, Washington, United States. It has been owned by AEG Live since 2007.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:showbox-sodo": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:the-crocodile": {
+      "title": "The Crocodile",
+      "url": "https://en.wikipedia.org/wiki/The_Crocodile",
+      "extract": "The Crocodile (formerly the Crocodile Cafe, and sometimes called The Croc) is a music club at 2505 1st Avenue at Wall Street in the Belltown neighborhood of Seattle, Washington, United States. Opened by Stephanie Dorgan as the \"Crocodile Cafe\" on April 30, 1991, it quickly became a fixture of the city's music scene.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:neumos": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:barboza": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:paramount-theatre": {
+      "title": "Paramount Theatre (Seattle)",
+      "url": "https://en.wikipedia.org/wiki/Paramount_Theatre_(Seattle)",
+      "extract": "The Paramount Theatre is a 2,807-seat performing arts venue located at 9th Avenue and Pine Street in the downtown core of Seattle, Washington, United States. The theater originally opened on March 1, 1928, as the Seattle Theatre, with 3,000 seats.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:moore-theatre": {
+      "title": "Moore Theatre",
+      "url": "https://en.wikipedia.org/wiki/Moore_Theatre",
+      "extract": "Moore Theatre is an 1,800-seat performing arts venue in Seattle, Washington, United States, located two blocks away from Pike Place Market at the corner of 2nd Avenue and Virginia Street. It opened in 1907 and is Seattle's oldest active theater, hosting a variety of theatrical productions, concerts and lectures.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:neptune-theatre": {
+      "title": "Neptune Theatre (Seattle)",
+      "url": "https://en.wikipedia.org/wiki/Neptune_Theatre_(Seattle)",
+      "extract": "The Neptune Theatre, formerly known as U-Neptune Theatre, is a performing arts venue in the University District neighborhood of Seattle, Washington, United States. Opened in 1921, the 1,000 capacity venue hosts a variety of events, including dance and music performances, film screenings, and arts education.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:tractor-tavern": {
+      "title": "Live at the Tractor Tavern",
+      "url": "https://en.wikipedia.org/wiki/Live_at_the_Tractor_Tavern",
+      "extract": "Live at the Tractor Tavern is a live album by the American rock band Supersuckers. Released in 2004, it was recorded live at The Tractor Tavern, in Seattle, Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:conor-byrne": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:nectar-lounge": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:the-royal-room": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:columbia-city-theater": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:clock-out-lounge": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:sea-monster-lounge": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:dimitriou-s-jazz-alley": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:the-triple-door": {
+      "title": "The Triple Door",
+      "url": "https://en.wikipedia.org/wiki/The_Triple_Door",
+      "extract": "The Triple Door is a 250-seat dinner theater, lounge and music venue founded in the fall of 2003, located at 216 Union Street in Seattle, Washington. The building often hosts concerts for folk, indie, and World music groups.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:vera-project": {
+      "title": "The Vera Project",
+      "url": "https://en.wikipedia.org/wiki/The_Vera_Project",
+      "extract": "The Vera Project, or VERA, is an all-ages, non-profit youth arts organization in Seattle, Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:benaroya-hall": {
+      "title": "Benaroya Hall",
+      "url": "https://en.wikipedia.org/wiki/Benaroya_Hall",
+      "extract": "Benaroya Hall is the home of the Seattle Symphony in Downtown Seattle, Washington, United States. It features two auditoria, the S. Mark Taper Foundation Auditorium, a 2,500-seat performance venue, as well as the Illsley Ball Nordstrom Recital Hall, which seats 536.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-rep": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-children-s-theatre": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:the-5th-avenue-theatre": {
+      "title": "5th Avenue Theatre",
+      "url": "https://en.wikipedia.org/wiki/5th_Avenue_Theatre",
+      "extract": "The 5th Avenue Theatre is a landmark theatre located in the Skinner Building, in the downtown core of Seattle, Washington, United States. It has hosted a variety of theatre productions and motion pictures since it opened in 1926.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:act-theatre": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:on-the-boards": {
+      "title": "On the Boards",
+      "url": "https://en.wikipedia.org/wiki/On_the_Boards",
+      "extract": "On the Boards (OtB) is a non-profit contemporary performing arts organization in Seattle, Washington, founded in 1978. Originally located at Washington Hall in the Central District, the organization moved in 1998 to their current location in Uptown.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:intiman-theatre": {
+      "title": "Intiman Theatre",
+      "url": "https://en.wikipedia.org/wiki/Intiman_Theatre",
+      "extract": "Intiman Theatre is a resident theater company in Seattle, Washington, founded in 1972 by Margaret \"Megs\" Booker, who named it after Strindberg's Intimate Theater in Stockholm. It has been based at various venues in Seattle, and became theater-in-residence at Seattle Central College in 2021, performing in two of the campus's venues.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:theatre-off-jackson": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:unexpected-productions": {
+      "title": "Unexpected Productions",
+      "url": "https://en.wikipedia.org/wiki/Unexpected_Productions",
+      "extract": "Unexpected Productions (UP) is an improvisational comedy company in Seattle, Washington, USA. From their home at the Market Theater in Seattle's historic Pike Place Market, in Post Alley, Unexpected Productions produces year-round shows, teaches improv classes, and hosts the Seattle International Festival of Improvisation.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:siff-cinema-downtown": {
+      "title": "SIFF Cinema Downtown",
+      "url": "https://en.wikipedia.org/wiki/SIFF_Cinema_Downtown",
+      "extract": "The SIFF Cinema Downtown, formerly the Seattle Cinerama, is a landmark movie theater in the Belltown neighborhood of Seattle, Washington, United States. The theater opened in 1963 and was renovated in the 1990s after its acquisition by Paul Allen.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:siff-cinema-uptown": {
+      "title": "SIFF Cinema Uptown",
+      "url": "https://en.wikipedia.org/wiki/SIFF_Cinema_Uptown",
+      "extract": "The SIFF Cinema Uptown, originally known as the Uptown Theater, is a movie theater in the Queen Anne neighborhood of Seattle, Washington. It is owned and operated by the Seattle International Film Festival (SIFF).",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:siff-film-center": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:northwest-film-forum": {
+      "title": "Northwest Film Forum",
+      "url": "https://en.wikipedia.org/wiki/Northwest_Film_Forum",
+      "extract": "The Northwest Film Forum (NWFF) is a nonprofit independent art house cinema and film-focused organization in Seattle's Capitol Hill neighborhood. that hosts screenings, multiple film festivals, film workshops, and public events.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:central-cinema": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:the-beacon": {
+      "title": "Beacon Hill, Seattle",
+      "url": "https://en.wikipedia.org/wiki/Beacon_Hill,_Seattle",
+      "extract": "Beacon Hill is a hill and neighborhood in southeastern Seattle, Washington. It is roughly bounded on the west by Interstate 5, on the north by Interstate 90, on the east by Rainier Avenue South, Cheasty Boulevard South, and Martin Luther King Junior Way South, and on the south by the Seattle city boundary.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:t-mobile-park": {
+      "title": "T-Mobile Park",
+      "url": "https://en.wikipedia.org/wiki/T-Mobile_Park",
+      "extract": "T-Mobile Park is a retractable roof ballpark in Seattle, Washington, United States. It is the home stadium of the Seattle Mariners of Major League Baseball and has a seating capacity of 47,368.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:lumen-field": {
+      "title": "Lumen Field",
+      "url": "https://en.wikipedia.org/wiki/Lumen_Field",
+      "extract": "Lumen Field is a multi-purpose stadium in Seattle, Washington, United States. Located in the city's SoDo neighborhood, it is the home field for the Seattle Seahawks of the National Football League (NFL), Seattle Sounders FC of Major League Soccer (MLS), and Seattle Reign FC of the National Women's Soccer League (NWSL).",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:climate-pledge-arena": {
+      "title": "Climate Pledge Arena",
+      "url": "https://en.wikipedia.org/wiki/Climate_Pledge_Arena",
+      "extract": "Climate Pledge Arena is a multi-purpose indoor arena in Seattle, Washington, United States. It is located north of downtown Seattle on the campus of the Seattle Center, a 74-acre (30 ha) civic and entertainment center first built for the Century 21 Exposition otherwise known as the 1962 World's Fair.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:husky-stadium": {
+      "title": "Husky Stadium",
+      "url": "https://en.wikipedia.org/wiki/Husky_Stadium",
+      "extract": "Husky Stadium is an outdoor football stadium on the campus of the University of Washington in Seattle, Washington, United States. It has been home to the Washington Huskies of the Big Ten Conference since 1920, hosting their football games.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fremont-solstice-cyclists": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fremont-solstice-parade": {
+      "title": "Fremont Solstice Parade",
+      "url": "https://en.wikipedia.org/wiki/Fremont_Solstice_Parade",
+      "extract": "The Fremont Solstice Parade is an annual event that occurs each June in Seattle, Washington, United States.\nThe Parade was founded by Barbara Luecke and Peter Toms in 1989.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fremont-fair-art-car-blowout": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:honk-fest-west": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:georgetown-carnival": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:moisture-festival": {
+      "title": "Moisture Festival",
+      "url": "https://en.wikipedia.org/wiki/Moisture_Festival",
+      "extract": "Moisture Festival is an annual, four week long, spring festival held in Seattle, Washington. Established in 2004, it is claimed to be the world's largest comedy/variety festival.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:dead-baby-downhill": {
+      "title": "Dead Baby Bikes Downhill",
+      "url": "https://en.wikipedia.org/wiki/Dead_Baby_Bikes_Downhill",
+      "extract": "Dead Baby Bikes Downhill, also known as Dead Baby Bike Race or Dead Baby Downhill or RaceDay, is an annual Seattle-based bicycle race and street party that occurs on the first Saturday of August. The bicycle race often has no defined route, just an origin and an ending point, and has historically not been permitted, even though the accompanying street party has been permitted.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:luminata": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:trolloween": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:syttende-mai": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-bon-odori": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fishermen-s-fall-festival": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:r-day": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:great-pumpkin-beer-festival": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pathway-of-lights": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:christmas-ship-festival": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:independent-bookstore-day": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-polar-bear-plunge": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:mlk-day-community-events": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:cid-lunar-new-year-celebrations": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-museum-month": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:northwest-flower-and-garden-festival": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-boat-show": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:emerald-city-comic-con": {
+      "title": "Emerald City Comic Con",
+      "url": "https://en.wikipedia.org/wiki/Emerald_City_Comic_Con",
+      "extract": "The Emerald City Comic Con (ECCC), formerly the Emerald City Comicon, is an annual comic book convention taking place in Seattle, Washington. Originally taking place at the city's Qwest Field (first at West Field Plaza, then at the Event Center), the venue changed in 2008 to its current home at the Seattle Convention Center.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-jewish-film-festival": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:taste-washington": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:st-patrick-s-day-parade": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:sakura-con": {
+      "title": "Sakura-Con",
+      "url": "https://en.wikipedia.org/wiki/Sakura-Con",
+      "extract": "Sakura-Con is an annual three-day anime convention held during March or April at the Seattle Convention Center in Seattle, Washington, United States. The convention, which is traditionally held over Easter weekend, is the largest anime convention in the Northwest.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-restaurant-week": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:nffty": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:uw-cherry-blossoms": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-international-film-festival": {
+      "title": "Seattle International Film Festival",
+      "url": "https://en.wikipedia.org/wiki/Seattle_International_Film_Festival",
+      "extract": "The Seattle International Film Festival (SIFF) is an Oscar-qualifying film festival held annually in Seattle, Washington, United States, since 1976. It usually takes place in late May and/or early June.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:u-district-street-fair": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:northwest-folklife": {
+      "title": "Northwest Folklife",
+      "url": "https://en.wikipedia.org/wiki/Northwest_Folklife",
+      "extract": "Northwest Folklife is an independent 501(c)(3) arts organization that celebrates the multigenerational arts, cultures, and traditions of a global Pacific Northwest.\nThe Northwest Folklife Festival is an annual festival of ethnic, folk, and traditional art, crafts, and music that takes place over the Memorial Day weekend in Seattle, Washington at Seattle Center.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:opening-day-of-boating-season": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:windermere-cup": {
+      "title": "Windermere Cup",
+      "url": "https://en.wikipedia.org/wiki/Windermere_Cup",
+      "extract": "The Windermere Cup is a series of annual rowing races hosted by the University of Washington in Seattle, Washington, United States. The event is open to international teams and takes place on the first Saturday in May, in the Lake Washington Ship Canal around Portage Bay, the Montlake Cut, and Lake Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-international-dance-festival": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-pride-parade": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pridefest-capitol-hill": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pridefest-seattle-center": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pride-in-the-park": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-dyke-march": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seafair-fourth-of-july": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seafair-torchlight-parade": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seafair-torchlight-run": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seafair-fleet-week": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seafair-weekend-hydroplanes-and-air-show": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:ballard-seafoodfest": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:west-seattle-summer-fest": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:west-seattle-grand-parade": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:capitol-hill-block-party": {
+      "title": "Capitol Hill Block Party",
+      "url": "https://en.wikipedia.org/wiki/Capitol_Hill_Block_Party",
+      "extract": "The Capitol Hill Block Party is an annual three-day music festival and block party held each July in the Capitol Hill neighborhood of Seattle, Washington, United States. Performance genres include pop, R&B, indie rock, punk, EDM, and many more.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-art-fair": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-chamber-music-society-summer-festival": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seafair-indian-days-powwow": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pista-sa-nayon": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:umoja-fest": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:lake-city-summer-festival-and-parade": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:sunset-supper-at-pike-place-market": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-design-festival": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:big-day-of-play": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:obliteride": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-to-portland-bicycle-classic": {
+      "title": "Seattle to Portland Bicycle Classic",
+      "url": "https://en.wikipedia.org/wiki/Seattle_to_Portland_Bicycle_Classic",
+      "extract": "The Seattle to Portland, or STP, is an annual one- or two-day supported bicycle ride from Seattle, Washington, to Portland, Oregon, in the United States. The STP \"is considered one of the 10 biggest recreational bicycle rides in the country, drawing riders from across the nation and from other nations\", and has been operating since 1979.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fremont-oktoberfest": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:cid-night-market": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:local-sightings-film-festival": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:northwest-tea-festival": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:walk-the-block-at-wa-na-wari": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:earshot-jazz-festival": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:refract-glass-art-events": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-latino-film-festival": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:tasveer-film-festival": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fauntleroy-fall-festival": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:short-run-comix-and-arts-festival": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:julefest": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-marathon": {
+      "title": "Seattle Marathon",
+      "url": "https://en.wikipedia.org/wiki/Seattle_Marathon",
+      "extract": "The Seattle Marathon is an annual marathon in Seattle, Washington, U.S. It was first held in 1970 and typically takes place the weekend following Thanksgiving.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:urban-craft-uprising": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-queer-and-trans-film-festival": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-center-winterfest": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:wildlanterns-at-woodland-park-zoo": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pnb-s-the-nutcracker": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:candy-cane-lane": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:olympic-manor-lights": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:westlake-tree-lighting": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pike-place-market-holiday-festivities": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:new-year-s-at-the-needle": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:tet-in-seattle": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:irish-festival": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:french-fest": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:cherry-blossom-and-japanese-cultural-festival": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:aanhpi-heritage-month-celebration": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:a-glimpse-of-china": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:spirit-of-africa": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:indigenous-people-festival": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:polish-festival": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:a-day-in-punjab": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:tibet-fest": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:brasilfest": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:festival-sundiata": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:live-aloha": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:sea-mar-fiestas-patrias": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:italian-festival": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:croatiafest": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:turkfest": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:dia-de-muertos": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:diwali": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-hmong-new-year": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fremont-sunday-market": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:ballard-farmers-market": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:university-district-farmers-market": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:west-seattle-farmers-market": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:capitol-hill-farmers-market": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:georgetown-steam-plant-open-houses": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:kexp-sessions-and-events": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:couth-buzzard-performances": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:duck-dodge-sailing-races": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:lake-washington-boulevard-car-free-days": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:shakespeare-in-the-parks": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:zootunes": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:rat-city-roller-derby": {
+      "title": "Rat City Roller Derby",
+      "url": "https://en.wikipedia.org/wiki/Rat_City_Roller_Derby",
+      "extract": "Rat City Roller Derby is a women's flat-track roller derby league in Seattle, Washington. Founded in 2004 as Rat City Rollergirls, LLC, the league has incorporated alternative cultural influences, and has inspired and mentored other leagues.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:capitol-hill-art-walk": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:west-seattle-art-walk": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:belltown-art-walk": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:georgetown-art-attack": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:columbia-city-farmers-market": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:lake-city-farmers-market": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:phinney-farmers-market": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:magnolia-farmers-market": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pioneer-square-first-thursday-art-walk": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pioneer-square": {
+      "title": "Pioneer Square, Seattle",
+      "url": "https://en.wikipedia.org/wiki/Pioneer_Square,_Seattle",
+      "extract": "Pioneer Square is a neighborhood in the southwest corner of downtown Seattle, Washington, US. It was once the heart of the city: Seattle's founders settled there in 1852, following a brief six-month settlement at Alki Point on the far side of Elliott Bay. The early structures in the neighborhood were mostly wooden, and nearly all burned in the Great Seattle Fire of 1889.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:chinatown-international-district": {
+      "title": "Chinatown–International District, Seattle",
+      "url": "https://en.wikipedia.org/wiki/Chinatown%E2%80%93International_District,_Seattle",
+      "extract": "The Chinatown–International District (abbreviated as CID) is a neighborhood of Seattle, Washington. It is the center of the city's Asian American community.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:japantown": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:little-saigon": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:capitol-hill": {
+      "title": "Capitol Hill, Seattle",
+      "url": "https://en.wikipedia.org/wiki/Capitol_Hill,_Seattle",
+      "extract": "Capitol Hill is a densely populated residential district and a neighborhood in Seattle, Washington, United States. It is immediately east of Downtown Seattle and north of First Hill.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:ballard": {
+      "title": "Ballard, Seattle",
+      "url": "https://en.wikipedia.org/wiki/Ballard,_Seattle",
+      "extract": "Ballard is a neighborhood in northwestern Seattle, Washington, United States. Formerly an independent city, the City of Seattle's official boundaries define it as bounded to the north by Crown Hill (N.W. 85th Street), to the east by Greenwood, Phinney Ridge and Fremont (along 3rd Avenue N.W.), to the south by the Lake Washington Ship Canal, and to the west by Puget Sound's Shilshole Bay.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fremont": {
+      "title": "Fremont, Seattle",
+      "url": "https://en.wikipedia.org/wiki/Fremont,_Seattle",
+      "extract": "Fremont is a neighborhood in northern Seattle, Washington, United States. Originally a separate city, it was annexed to Seattle in 1891.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:wallingford": {
+      "title": "Wallingford, Seattle",
+      "url": "https://en.wikipedia.org/wiki/Wallingford,_Seattle",
+      "extract": "Wallingford is a neighborhood in north central Seattle, lying on a hill above the north shore of Lake Union about four miles from the downtown core. The neighborhood developed quickly during the early 20th century after the establishment of the University of Washington to the east.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:university-district": {
+      "title": "University District, Seattle",
+      "url": "https://en.wikipedia.org/wiki/University_District,_Seattle",
+      "extract": "The University District (commonly the U District) is a neighborhood and a major district in central northeastern Seattle, Washington, comprising several distinct neighborhoods. The main campus of the University of Washington (UW) is located in the district, lending its name to both the district as well as University Way NE (commonly The Ave).",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:phinney-ridge": {
+      "title": "Phinney Ridge, Seattle",
+      "url": "https://en.wikipedia.org/wiki/Phinney_Ridge,_Seattle",
+      "extract": "Phinney Ridge is a neighborhood in north central Seattle, Washington, United States. It is named after the ridge which runs north and south, separating Ballard from Green Lake, from approximately N. 45th to N. 70th Street.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:greenwood": {
+      "title": "Greenwood, Seattle",
+      "url": "https://en.wikipedia.org/wiki/Greenwood,_Seattle",
+      "extract": "Greenwood is a neighborhood in north central Seattle, Washington, United States. The intersection of Greenwood Avenue North and North 85th Street is the commercial center.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:green-lake": {
+      "title": "Green Lake (Seattle)",
+      "url": "https://en.wikipedia.org/wiki/Green_Lake_(Seattle)",
+      "extract": "Green Lake is a freshwater lake in north central Seattle, Washington, within Green Lake Park. The park is surrounded by the Green Lake neighborhood to the north and east, the Wallingford neighborhood to the south, the Phinney Ridge neighborhood to the west, and Woodland Park to the southwest.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:queen-anne": {
+      "title": "Queen Anne, Seattle",
+      "url": "https://en.wikipedia.org/wiki/Queen_Anne,_Seattle",
+      "extract": "Queen Anne is a neighborhood in northwestern Seattle, Washington. Queen Anne covers an area of 2.8 square miles (7.3 km2), and has a population of about 34,000.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:uptown": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:belltown": {
+      "title": "Belltown, Seattle",
+      "url": "https://en.wikipedia.org/wiki/Belltown,_Seattle",
+      "extract": "Belltown is the most densely populated neighborhood in Seattle, Washington, United States, located on the city's downtown waterfront on land that was artificially flattened as part of a regrading project. Formerly a low-rent, semi-industrial arts district, in recent decades it has transformed into a neighborhood of trendy restaurants, boutiques, nightclubs, and residential towers as well as warehouses and art galleries.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:south-lake-union": {
+      "title": "South Lake Union, Seattle",
+      "url": "https://en.wikipedia.org/wiki/South_Lake_Union,_Seattle",
+      "extract": "South Lake Union (sometimes SLU) is a neighborhood in central Seattle, Washington, so named because it is at the southern tip of Lake Union.\nThe official boundaries of the City of Seattle Urban Center are Denny Way on the south, beyond which is Denny Triangle; Interstate 5 on the east, beyond which is Capitol Hill; Aurora Avenue N. (State Route 99) and 7th Avenue N. on the west, beyond which is Lower Queen Anne; and Galer Street, Lake Union, and E. Newton Place on the north, beyond which are Westlake and Eastlake, but like most Seattle neighborhoods, its precise boundaries are indeterminate.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:eastlake": {
+      "title": "Eastlake, Seattle",
+      "url": "https://en.wikipedia.org/wiki/Eastlake,_Seattle",
+      "extract": "Eastlake is a neighborhood in Seattle, Washington, so named because of its location on the eastern shore of Lake Union.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:west-seattle-junction": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:admiral": {
+      "title": "North Admiral, Seattle",
+      "url": "https://en.wikipedia.org/wiki/North_Admiral,_Seattle",
+      "extract": "North Admiral (locally known as Admiral or Admiral District) is the oldest neighborhood in West Seattle, Washington. In the early 1900s, it was connected to Seattle by ferries and a cable car.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:alki": {
+      "title": "Alki Point, Seattle",
+      "url": "https://en.wikipedia.org/wiki/Alki_Point,_Seattle",
+      "extract": "Alki Point is a neighborhood in western Seattle, Washington. It is a point jutting into Puget Sound, the westernmost landform in the city's West Seattle district.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:georgetown": {
+      "title": "Georgetown, Seattle",
+      "url": "https://en.wikipedia.org/wiki/Georgetown,_Seattle",
+      "extract": "Georgetown is a neighborhood in southern Seattle, Washington, United States. It is bounded on the north by the mainlines of the BNSF Railway and Union Pacific Railroad, beyond which is the Industrial District; on the west by the Duwamish River, across which is South Park; on the east by Interstate 5, beyond which is Beacon Hill; and on the south by Boeing Field.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:south-park": {
+      "title": "South Park, Seattle",
+      "url": "https://en.wikipedia.org/wiki/South_Park,_Seattle",
+      "extract": "South Park is a neighborhood in Seattle, Washington. It is located just south of Georgetown across the Duwamish River, and just north of the city of Tukwila.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:columbia-city": {
+      "title": "Columbia City, Seattle",
+      "url": "https://en.wikipedia.org/wiki/Columbia_City,_Seattle",
+      "extract": "Columbia City is a neighborhood in southeastern Seattle, Washington, within the city's Rainier Valley district. It has a landmark-protected historic business district and is one of the few Seattle neighborhoods with a long history of ethnic and income diversity.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:beacon-hill": {
+      "title": "Beacon Hill, Seattle",
+      "url": "https://en.wikipedia.org/wiki/Beacon_Hill,_Seattle",
+      "extract": "Beacon Hill is a hill and neighborhood in southeastern Seattle, Washington. It is roughly bounded on the west by Interstate 5, on the north by Interstate 90, on the east by Rainier Avenue South, Cheasty Boulevard South, and Martin Luther King Junior Way South, and on the south by the Seattle city boundary.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:central-district": {
+      "title": "Central District, Seattle",
+      "url": "https://en.wikipedia.org/wiki/Central_District,_Seattle",
+      "extract": "The Central District (commonly called the Central Area or The CD) is a mostly residential neighborhood in Seattle located east of downtown and First Hill (12th Avenue and Rainier Avenue); west of Madrona, Leschi and Mt. Baker neighborhoods; south of Capitol Hill, and north of Rainier Valley.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:madrona": {
+      "title": "Madrona, Seattle",
+      "url": "https://en.wikipedia.org/wiki/Madrona,_Seattle",
+      "extract": "Madrona is a mostly residential neighborhood in east Seattle, Washington. It is bounded on the east by Lake Washington; on the south by E. Cherry Street, beyond which is Leschi; on the west by Martin Luther King Jr.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:leschi": {
+      "title": "Leschi, Seattle",
+      "url": "https://en.wikipedia.org/wiki/Leschi,_Seattle",
+      "extract": "Leschi is a neighborhood in the city of Seattle, Washington, United States. Located on the western shore of Lake Washington, the residential neighborhood was named by its 19th-century developer for Chief Leschi of the Nisqually tribe, who was executed by territorial authorities in 1858 in Pierce County, Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:madison-park": {
+      "title": "Madison Park, Seattle",
+      "url": "https://en.wikipedia.org/wiki/Madison_Park,_Seattle",
+      "extract": "Madison Park is a neighborhood in eastern Seattle, Washington, United States. It is named after the city park at the foot of Madison Street on the Lake Washington shore.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:rainier-beach": {
+      "title": "Rainier Beach, Seattle",
+      "url": "https://en.wikipedia.org/wiki/Rainier_Beach,_Seattle",
+      "extract": "Rainier Beach ( ray-NEER) is a set of neighborhoods in Seattle, Washington, that are mostly residential. Also called Atlantic City, Rainier Beach can include Dunlap, Pritchard Island, and Rainier View neighborhoods.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:othello": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:winslow": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:bainbridge-island-museum-of-art": {
+      "title": "Bainbridge Island Museum of Art",
+      "url": "https://en.wikipedia.org/wiki/Bainbridge_Island_Museum_of_Art",
+      "extract": "The Bainbridge Island Museum of Art (BIMA) is located in Bainbridge Island, Washington, United States. The museum was designed by Coates Design Architects and opened in 2013.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:bloedel-reserve": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:chilly-hilly": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:point-robinson": {
+      "title": "Point Robinson",
+      "url": "https://en.wikipedia.org/wiki/Point_Robinson",
+      "extract": "Point Robinson is the easternmost point on Maury Island, Washington, United States. It was originally a spit on Puget Sound that was named in 1841 for John Robinson, a crewmember on the United States Exploring Expedition led by U.S. naval officer Charles Wilkes.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:vashon-strawberry-festival": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:snoqualmie-falls": {
+      "title": "Snoqualmie Falls",
+      "url": "https://en.wikipedia.org/wiki/Snoqualmie_Falls",
+      "extract": "Snoqualmie Falls is a 268-foot (82 m) waterfall in the northwest United States, located east of Seattle on the Snoqualmie River between Snoqualmie and Fall City, Washington. It is one of Washington's most popular scenic attractions and is known internationally for its appearance in the television series Twin Peaks.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:northwest-railway-museum": {
+      "title": "Northwest Railway Museum",
+      "url": "https://en.wikipedia.org/wiki/Northwest_Railway_Museum",
+      "extract": "The Northwest Railway Museum (NRM) is a railroad museum in Snoqualmie, King County, Washington. It consists of a heritage railway, historic depot, exhibit hall, archive center and a two track shop dedicated to restoring railroad equipment.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:bellevue-botanical-garden": {
+      "title": "Bellevue Botanical Garden",
+      "url": "https://en.wikipedia.org/wiki/Bellevue_Botanical_Garden",
+      "extract": "Bellevue Botanical Garden is a botanical garden east of downtown Bellevue, Washington on Main Street. Established in 1992, many different organizations work to maintain the garden to keep it free of charge.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:bellevue-downtown-park": {
+      "title": "Bellevue Downtown Park",
+      "url": "https://en.wikipedia.org/wiki/Bellevue_Downtown_Park",
+      "extract": "Bellevue Downtown Park is a 20-acre (81,000 m2) park located in downtown Bellevue, Washington, United States, a suburb of Seattle. The park consists of a circular ring with a large central greenspace that is surrounded by a moat and walking trails.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:kidsquest-children-s-museum": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:garden-d-lights": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:marymoor-park": {
+      "title": "Marymoor Park",
+      "url": "https://en.wikipedia.org/wiki/Marymoor_Park",
+      "extract": "Marymoor Park, located on the north end of Lake Sammamish in Redmond, Washington, is King County's largest, oldest, and most popular park, with more than 3 million annual visitors coming to roam its 640 acres (2.6 km2). Among recreational activities available are various sports facilities, rock climbing, a 40-acre off-leash dog park and a velodrome.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:sammamish-river-trail": {
+      "title": "Sammamish River Trail",
+      "url": "https://en.wikipedia.org/wiki/Sammamish_River_Trail",
+      "extract": "The Sammamish River Trail is a 10.1-mile (16.3 km) recreational pedestrian and bike path rail trail in King County, Washington that runs along the Sammamish River from Blyth Park in Bothell to Marymoor Park in Redmond as part of the \"Locks to Lakes Corridor.\" It connects to the Burke-Gilman Trail at its northwestern end and to the Redmond Central Connector at its southeastern end.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:cascadia-art-museum": {
+      "title": "Cascadia Art Museum",
+      "url": "https://en.wikipedia.org/wiki/Cascadia_Art_Museum",
+      "extract": "The Cascadia Art Museum is an art museum in Edmonds, Washington, primarily featuring art from the Pacific Northwest region of the United States. The museum opened in 2015 and has a collection of over 200 works.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:edmonds-waterfront": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:richmond-beach": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:kruckeberg-botanic-garden": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pacific-bonsai-museum": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:rhododendron-species-botanical-garden": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:museum-of-glass": {
+      "title": "Museum of Glass",
+      "url": "https://en.wikipedia.org/wiki/Museum_of_Glass",
+      "extract": "The Museum of Glass (MOG) is a 75,000-square-foot (7,000 m2) contemporary art museum in Tacoma, Washington, dedicated to the medium of glass. Since its founding in 2002, the Museum of Glass has been committed to creating a space for the celebration of the studio glass movement through nurturing artists, implementing education, and encouraging creativity.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:tacoma-art-museum": {
+      "title": "Tacoma Art Museum",
+      "url": "https://en.wikipedia.org/wiki/Tacoma_Art_Museum",
+      "extract": "The Tacoma Art Museum (TAM) is an art museum in Tacoma, Washington, United States. It focuses primarily on the art and artists from the Pacific Northwest and broader western region of the U.S. Founded in 1935, the museum has strong roots in the community and anchors the university and museum district in downtown Tacoma.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:washington-state-history-museum": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:lemay-america-s-car-museum": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:washington-state-fair": {
+      "title": "Washington State Fair",
+      "url": "https://en.wikipedia.org/wiki/Washington_State_Fair",
+      "extract": "The Washington State Fair, formerly the Puyallup Fair, is the largest single attraction held annually in the U.S. state of Washington. It continually ranks in the top ten largest fairs in the United States and includes agricultural and pastoral displays and shows, amusement rides, and concert series.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:issaquah-salmon-days": {
+      "title": "Issaquah Salmon Days",
+      "url": "https://en.wikipedia.org/wiki/Issaquah_Salmon_Days",
+      "extract": "Issaquah Salmon Days is a festival held in Issaquah, Washington that celebrates the return of the salmon. The main features of the event are a parade, live music, and a market for artisans to sell their wares and food.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:skagit-valley-tulip-festival": {
+      "title": "Skagit Valley Tulip Festival",
+      "url": "https://en.wikipedia.org/wiki/Skagit_Valley_Tulip_Festival",
+      "extract": "The Skagit Valley Tulip Festival is a tulip festival in the U.S. state of Washington. It is held annually in the Skagit Valley, a region of Skagit County, from April 1 to 30.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:kubota-garden": {
+      "title": "Kubota Garden",
+      "url": "https://en.wikipedia.org/wiki/Kubota_Garden",
+      "extract": "Kubota Garden is a 20-acre (81,000 m2) Japanese garden in the Rainier Beach neighborhood of Seattle, Washington. A public park since 1987, it was started in 1927 by Fujitaro Kubota, a Japanese emigrant.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:dunn-gardens": {
+      "title": "Dunn Gardens",
+      "url": "https://en.wikipedia.org/wiki/Dunn_Gardens",
+      "extract": "Dunn Gardens in Seattle, Washington, is a privately owned 7.5-acre (3.0 ha) property composed of the remaining acreage of the estate of Arthur G. Dunn Sr., who bought the property in 1914 as a summer get-a-way for his family, and contracted the landscaping to the Olmsted Brothers. Upon his death, the property was inherited by his children.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:salmon-bay-park": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pier-62": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:overlook-walk": {
+      "title": "Overlook Walk",
+      "url": "https://en.wikipedia.org/wiki/Overlook_Walk",
+      "extract": "Overlook Walk is a bridge over Alaskan Way in Seattle, in the U.S. state of Washington. Completed in 2024, the bridge serves as a pedestrian path to connect the Central Waterfront district and Pike Place Market.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:judkins-park": {
+      "title": "Judkins Park and Playfield",
+      "url": "https://en.wikipedia.org/wiki/Judkins_Park_and_Playfield",
+      "extract": "Judkins Park and Playfield is a public park in Seattle's Central District, in the U.S. state of Washington. The park has a concrete roller rink.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:northwest-african-american-museum": {
+      "title": "Northwest African American Museum",
+      "url": "https://en.wikipedia.org/wiki/Northwest_African_American_Museum",
+      "extract": "The Northwest African American Museum (NAAM) is a museum in Seattle, Washington's historically African-American Central District neighborhood. The museum aims to present and preserve the connections between the Pacific Northwest and people of African descent and investigate and celebrate Black experiences in America through exhibitions, programs and events.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:georgetown-steam-plant": {
+      "title": "Georgetown Steam Plant",
+      "url": "https://en.wikipedia.org/wiki/Georgetown_Steam_Plant",
+      "extract": "The Georgetown Steam Plant, located in the Georgetown neighborhood of Seattle, Washington, was constructed in 1906 for the Seattle Electric Company to provide power for Seattle, notably for streetcars.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:space-needle": {
+      "title": "Space Needle",
+      "url": "https://en.wikipedia.org/wiki/Space_Needle",
+      "extract": "The Space Needle is an observation tower in Seattle, Washington, United States. Considered to be an icon of the city, it has been designated a Seattle landmark.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-center-monorail": {
+      "title": "Seattle Center Monorail",
+      "url": "https://en.wikipedia.org/wiki/Seattle_Center_Monorail",
+      "extract": "The Seattle Center Monorail is an elevated straddle-beam monorail line in Seattle, Washington, United States. The 0.9-mile (1.4 km) monorail runs along 5th Avenue between the Seattle Center and Westlake Center in Downtown Seattle, making no intermediate stops.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:st-mark-s-cathedral": {
+      "title": "St. Mark's Episcopal Cathedral, Seattle",
+      "url": "https://en.wikipedia.org/wiki/St._Mark%27s_Episcopal_Cathedral,_Seattle",
+      "extract": "St. Mark's Episcopal Cathedral in Seattle, Washington, is the seat of the bishop of the Episcopal Diocese of Olympia.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:olympia-coffee": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:bonhomie-coffee-bar": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:the-walrus-and-the-carpenter": {
+      "title": "The Walrus and the Carpenter (restaurant)",
+      "url": "https://en.wikipedia.org/wiki/The_Walrus_and_the_Carpenter_(restaurant)",
+      "extract": "The Walrus and the Carpenter is a restaurant and oyster bar in Seattle's Ballard neighborhood, in the U.S. state of Washington.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:loretta-s-northwesterner": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:blue-moon-tavern": {
+      "title": "Blue Moon Tavern",
+      "url": "https://en.wikipedia.org/wiki/Blue_Moon_Tavern",
+      "extract": "The Blue Moon is a tavern located on the west edge of the University District in Seattle, Washington, United States.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:third-place-books-seward-park": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:golden-age-collectables": {
+      "title": "Golden Age Collectables",
+      "url": "https://en.wikipedia.org/wiki/Golden_Age_Collectables",
+      "extract": "Golden Age Collectables, described as the world's oldest comic book store, is located at Seattle's Pike Place Market, in the U.S. state of Washington. It was established in 1961.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:sunset-tavern": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:mccaw-hall": {
+      "title": "McCaw Hall",
+      "url": "https://en.wikipedia.org/wiki/McCaw_Hall",
+      "extract": "Marion Oliver McCaw Hall (often abbreviated to McCaw Hall) is a performing arts hall in Seattle, Washington. Located on the grounds of the Seattle Center and owned by the city of Seattle, McCaw Hall's two principal tenants are Seattle Opera and Pacific Northwest Ballet.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:juneteenth-celebrations": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:bumbershoot": {
+      "title": "Bumbershoot",
+      "url": "https://en.wikipedia.org/wiki/Bumbershoot",
+      "extract": "Bumbershoot is an annual international music and arts festival held in Seattle, Washington. One of North America's largest such festivals, it takes place every Labor Day weekend (leading up to and including the first Monday of September) at the 74-acre (299,000 m2) Seattle Center, which was built for the 1962 World's Fair.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pax-west": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:freakout-festival": {
+      "title": "Freakout Festival",
+      "url": "https://en.wikipedia.org/wiki/Freakout_Festival",
+      "extract": "Freakout Festival is an annual four-day underground music festival held at various venues around the Ballard neighborhood of Seattle each November. Since 2013, this festival has featured a mix of independent and mainstream performers, and has garnered press from around the globe.",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pagdiriwang-philippine-festival": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:ballard-art-walk": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:vashon-town-center": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:kirkland-waterfront": {
+      "checkedAt": "2026-09-23"
+    },
+    "staple:point-defiance-park": {
+      "title": "Point Defiance Park",
+      "url": "https://en.wikipedia.org/wiki/Point_Defiance_Park",
+      "extract": "Point Defiance Park in Tacoma, Washington, United States, is a large urban park. The 760-acre (3.1 km2) park includes Point Defiance Zoo & Aquarium, the Rose Garden, Rhododendron Garden, beaches, trails, a boardwalk, a boathouse, a Washington State Ferries ferry dock for the Point Defiance-Tahlequah route to Vashon Island, Fort Nisqually, an off-leash dog park, and most notably about 400 acres of old-growth forest.",
+      "checkedAt": "2026-09-23"
+    }
+  }
+}

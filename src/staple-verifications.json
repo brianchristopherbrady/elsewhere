@@ -1,0 +1,2882 @@
+{
+  "generatedAt": "2026-09-23",
+  "entries": {
+    "staple:seward-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "5900 Lake Washington Blvd S, Seattle, WA 98118",
+      "lat": 47.54923,
+      "lng": -122.250639,
+      "pmaid": "428",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:green-lake-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "7201 E Greenlake Dr N, Seattle, WA 98115",
+      "lat": 47.678938,
+      "lng": -122.330394,
+      "pmaid": "307",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:golden-gardens": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "8498 Seaview Pl NW, Seattle, WA 98117",
+      "lat": 47.686852,
+      "lng": -122.403454,
+      "pmaid": "243",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:alki-beach": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "1702 Alki Ave SW, Seattle, WA 98116",
+      "lat": 47.582912,
+      "lng": -122.402173,
+      "pmaid": "445",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:lincoln-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "8011 Fauntleroy Way SW, Seattle, WA 98136",
+      "lat": 47.531176,
+      "lng": -122.396012,
+      "pmaid": "460",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:carkeek-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "950 NW Carkeek Park Rd, Seattle, WA 98117",
+      "lat": 47.712194,
+      "lng": -122.379763,
+      "pmaid": "240",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:magnuson-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "7400 Sand Point Way NE, Seattle, WA 98115",
+      "lat": 47.680304,
+      "lng": -122.255084,
+      "pmaid": "111110",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:volunteer-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "1247 15th Ave E, Seattle, WA 98112",
+      "lat": 47.630378,
+      "lng": -122.315568,
+      "pmaid": "399",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:washington-park-arboretum": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "2300 Arboretum Dr E, Seattle, WA 98112",
+      "lat": 47.636477,
+      "lng": -122.294835,
+      "pmaid": "393",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:ravenna-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "5520 Ravenna Ave NE, Seattle, WA 98105",
+      "lat": 47.671404,
+      "lng": -122.305705,
+      "pmaid": "391",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:cowen-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "5849 15th Ave NE, Seattle, WA 98105",
+      "lat": 47.672596,
+      "lng": -122.313072,
+      "pmaid": "483",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:woodland-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "1000 N 50th St, Seattle, WA 98103",
+      "lat": 47.668906,
+      "lng": -122.344218,
+      "pmaid": "292",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:camp-long": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "5200 35th Ave SW, Seattle, WA 98126",
+      "lat": 47.556242,
+      "lng": -122.373161,
+      "pmaid": "4154",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:schmitz-preserve": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "5551 SW Admiral Way, Seattle, WA 98116",
+      "lat": 47.574375,
+      "lng": -122.400425,
+      "pmaid": "465",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:frink-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "398 Lake Washington Blvd S, Seattle, WA 98144",
+      "lat": 47.599506,
+      "lng": -122.290256,
+      "pmaid": "392",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:interlaken-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "2451 Delmar Dr E, Seattle, WA 98102",
+      "lat": 47.636257,
+      "lng": -122.308316,
+      "pmaid": "3023",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:northacres-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "12718 1st Ave NE, Seattle, WA 98125",
+      "lat": 47.721775,
+      "lng": -122.326124,
+      "pmaid": "361",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:llandover-woods": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "Seattle, WA 98177",
+      "lat": 47.7333387,
+      "lng": -122.3648494,
+      "website": "https://www.seattle.gov/parks/find/parks/llandover-woods-greenspace",
+      "osm": "way/174195377",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:cheasty-greenspace": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "lat": 47.5605963,
+      "lng": -122.2979313,
+      "osm": "relation/413652",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:west-duwamish-greenbelt": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "W Marginal Way SW & Highland Park Way SW, Seattle, WA 98106",
+      "lat": 47.563271,
+      "lng": -122.356966,
+      "pmaid": "4401",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:kubota-garden": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "9817 55th Ave S, Seattle, WA 98118",
+      "lat": 47.513543,
+      "lng": -122.266125,
+      "pmaid": "415",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:volunteer-park-conservatory": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "1400 E Galer St, Seattle, WA 98112",
+      "lat": 47.632063,
+      "lng": -122.315708,
+      "pmaid": "1000399",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:woodland-park-rose-garden": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "750 N 50th St, Seattle, WA 98103",
+      "lat": 47.666499,
+      "lng": -122.35054,
+      "pmaid": "1000292",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:carl-s-english-jr-botanical-garden": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-chinese-garden": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "Seattle, WA 98106",
+      "lat": 47.552633,
+      "lng": -122.3527051,
+      "website": "https://www.seattlechinesegarden.org/",
+      "osm": "way/31706566",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:south-seattle-college-arboretum": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "lat": 47.5512675,
+      "lng": -122.3534885,
+      "website": "https://southseattle.edu/arboretum/",
+      "osm": "way/353959142",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:uw-center-for-urban-horticulture": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:union-bay-natural-area": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 2,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:parsons-gardens": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "650 W Highland Dr, Seattle, WA 98119",
+      "lat": 47.629868,
+      "lng": -122.366082,
+      "pmaid": "324",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:bradner-gardens": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "1730 Bradner Pl S, Seattle, WA 98144",
+      "lat": 47.587419,
+      "lng": -122.295426,
+      "pmaid": "401",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:danny-woo-community-garden": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "Seattle, WA 98104",
+      "lat": 47.6004923,
+      "lng": -122.3251717,
+      "website": "https://interimcda.org/danny-woo/",
+      "osm": "way/25793176",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:dunn-gardens": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "lat": 47.7273603,
+      "lng": -122.3645999,
+      "website": "https://www.dunngardens.org/",
+      "osm": "way/361291224",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:beacon-food-forest": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "Seattle, WA 98108",
+      "lat": 47.5682883,
+      "lng": -122.3127543,
+      "website": "https://www.beaconfoodforest.org/",
+      "osm": "way/294432451",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:kerry-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "211 W Highland Dr, Seattle, WA 98119",
+      "lat": 47.629023,
+      "lng": -122.359874,
+      "pmaid": "342",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:marshall-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "1191 7th Ave W, Seattle, WA 98119",
+      "lat": 47.629436,
+      "lng": -122.366805,
+      "pmaid": "320",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:bhy-kracke-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "1215 5th Ave N, Seattle, WA 98109",
+      "lat": 47.630426,
+      "lng": -122.348403,
+      "pmaid": "304",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:kinnear-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "899 W Olympic Pl, Seattle, WA 98119",
+      "lat": 47.627317,
+      "lng": -122.367207,
+      "pmaid": "314",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:ella-bailey-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "2601 W Smith St, Seattle, WA 98199",
+      "lat": 47.640584,
+      "lng": -122.39106,
+      "pmaid": "318",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:magnolia-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "1461 Magnolia Blvd W, Seattle, WA 98199",
+      "lat": 47.632366,
+      "lng": -122.398993,
+      "pmaid": "317",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:sunset-hill-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "7531 34th Ave NW, Seattle, WA 98117",
+      "lat": 47.684034,
+      "lng": -122.400938,
+      "pmaid": "252",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fremont-peak-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "4357 Palatine Ave N, Seattle, WA 98103",
+      "lat": 47.661108,
+      "lng": -122.356671,
+      "pmaid": "4424",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fremont-canal-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "199 N Canal St, Seattle, WA 98103",
+      "lat": 47.651802,
+      "lng": -122.357864,
+      "pmaid": "4011",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:salmon-bay-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "2001 NW Canoe Pl, Seattle, WA 98117",
+      "lat": 47.679297,
+      "lng": -122.381343,
+      "pmaid": "249",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:ballard-commons": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "5701 22nd Ave NW, Seattle, WA 98107",
+      "lat": 47.670549,
+      "lng": -122.385487,
+      "pmaid": "4278",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:commodore-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "3330 W Commodore Way, Seattle, WA 98107",
+      "lat": 47.66538,
+      "lng": -122.40014,
+      "pmaid": "308",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:hamilton-viewpoint": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "1120 California Ave SW, Seattle, WA 98116",
+      "lat": 47.590748,
+      "lng": -122.38907,
+      "pmaid": "454",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:belvedere-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "3600 SW Admiral Way, Seattle, WA 98126",
+      "lat": 47.580673,
+      "lng": -122.376896,
+      "pmaid": "447",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:emma-schmitz-memorial-overlook": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "4503 Beach Dr SW, Seattle, WA 98116",
+      "lat": 47.562898,
+      "lng": -122.40712,
+      "pmaid": "3920",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:me-kwa-mooks-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "4503 Beach Dr SW, Seattle, WA 98116",
+      "lat": 47.563167,
+      "lng": -122.404006,
+      "pmaid": "473",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:jack-block-park": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "Seattle, WA 98126",
+      "lat": 47.5839624,
+      "lng": -122.3689354,
+      "website": "https://www.portseattle.org/places/jack-block-park",
+      "osm": "relation/7303423",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seacrest-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "1660 Harbor Ave SW, Seattle, WA 98126",
+      "lat": 47.589941,
+      "lng": -122.381226,
+      "pmaid": "455",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:don-armeni-boat-ramp-waterfront": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:waterfront-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "1401 Alaskan Way, Seattle, WA 98101",
+      "lat": 47.606778,
+      "lng": -122.342196,
+      "pmaid": "3973",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pier-62": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "Seattle, WA 98101",
+      "lat": 47.6085444,
+      "lng": -122.3448627,
+      "website": "https://www.seattle.gov/parks/allparks/pier-62",
+      "openingHours": "07:00-22:00",
+      "osm": "way/57391649",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:overlook-walk": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 2,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:myrtle-edwards-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "3130 Alaskan Way, Seattle, WA 98121",
+      "lat": 47.618767,
+      "lng": -122.36087,
+      "pmaid": "311",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:centennial-park": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "lat": 47.6266557,
+      "lng": -122.3756068,
+      "website": "https://www.portseattle.org/Parks-Public-Access/Parks/Pages/Centennial-Park.aspx",
+      "osm": "relation/3148300",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:victor-steinbrueck-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "2001 Western Ave, Seattle, WA 98121",
+      "lat": 47.610153,
+      "lng": -122.343869,
+      "pmaid": "338",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:lake-union-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "860 Terry Ave N, Seattle, WA 98109",
+      "lat": 47.627015,
+      "lng": -122.338848,
+      "pmaid": "344",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fairview-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "2900 Fairview Ave E, Seattle, WA 98102",
+      "lat": 47.647413,
+      "lng": -122.325368,
+      "pmaid": "2975",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:south-passage-point-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "3320 Fuhrman Ave E, Seattle, WA 98102",
+      "lat": 47.652087,
+      "lng": -122.322486,
+      "pmaid": "377",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:cheshiahud-lake-union-loop": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 6,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:madison-park-beach": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "lat": 47.6356282,
+      "lng": -122.2765242,
+      "osm": "way/42729416",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:madrona-beach": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:denny-blaine-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "200 Lake Washington Blvd E, Seattle, WA 98112",
+      "lat": 47.62011,
+      "lng": -122.280548,
+      "pmaid": "3982",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:leschi-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "201 Lakeside Ave. S, Seattle, WA 98122",
+      "lat": 47.600931,
+      "lng": -122.286548,
+      "pmaid": "367",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:mount-baker-beach": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "lat": 47.5834505,
+      "lng": -122.2875524,
+      "website": "http://www.seattle.gov/parks/beach_detail.asp?id=419",
+      "openingHours": "Mo-Fr 12:00-19:00, Sa-Su 11:00-19:00",
+      "osm": "way/353326194",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:colman-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "1800 Lake Washington Blvd S, Seattle, WA 98144",
+      "lat": 47.58547,
+      "lng": -122.288612,
+      "pmaid": "405",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pritchard-island-beach": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "8400 55th Ave S, Seattle, WA 98118",
+      "lat": 47.528948,
+      "lng": -122.26283,
+      "pmaid": "420",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:beer-sheva-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "8650 55th Ave S, Seattle, WA 98118",
+      "lat": 47.524191,
+      "lng": -122.263223,
+      "pmaid": "440",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:matthews-beach": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "5100 NE 93rd St, Seattle, WA 98115",
+      "lat": 47.694564,
+      "lng": -122.271785,
+      "pmaid": "347",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:cal-anderson-park": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "Seattle, WA 98122",
+      "lat": 47.6170377,
+      "lng": -122.3191692,
+      "website": "http://www.seattle.gov/parks/park_detail.asp?id=3102",
+      "osm": "way/158721036",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:louisa-boren-lookout": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:jefferson-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "3801 Beacon Ave S, Seattle, WA 98108",
+      "lat": 47.568067,
+      "lng": -122.311441,
+      "pmaid": "114",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:dr-jose-rizal-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "1007 12th Ave S, Seattle, WA 98144",
+      "lat": 47.593859,
+      "lng": -122.318094,
+      "pmaid": "433",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:judkins-park": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 5,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:jimi-hendrix-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "2400 S Massachusetts St, Seattle, WA 98144",
+      "lat": 47.588907,
+      "lng": -122.300842,
+      "pmaid": "3121",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pratt-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "1800 S Main St, Seattle, WA 98144",
+      "lat": 47.601407,
+      "lng": -122.307257,
+      "pmaid": "390",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:powell-barnett-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "352 Martin Luther King Jr Way, Seattle, WA 98112",
+      "lat": 47.605197,
+      "lng": -122.295998,
+      "pmaid": "345",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:othello-park": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 3,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:hing-hay-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "423 Maynard Ave S, Seattle, WA 98104",
+      "lat": 47.598609,
+      "lng": -122.325435,
+      "pmaid": "358",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:kobe-terrace": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "650 Main St, Seattle, WA 98104",
+      "lat": 47.60042,
+      "lng": -122.324494,
+      "pmaid": "3915",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:occidental-square": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "117 S Washington St, Seattle, WA 98104",
+      "lat": 47.600463,
+      "lng": -122.333272,
+      "pmaid": "323",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:waterfall-garden-park": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:freeway-park": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "Seattle, WA 98101",
+      "lat": 47.6100511,
+      "lng": -122.3304174,
+      "website": "https://www.seattle.gov/parks/allparks/freeway-park",
+      "osm": "relation/7152576",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:denny-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "100 Dexter Ave N, Seattle, WA 98109",
+      "lat": 47.61913,
+      "lng": -122.341049,
+      "pmaid": "309",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:westlake-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "401 Pine St, Seattle, WA 98101",
+      "lat": 47.611099,
+      "lng": -122.33724,
+      "pmaid": "332",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:tilikum-place": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "2701 5th Ave, Seattle, WA 98121",
+      "lat": 47.618382,
+      "lng": -122.347411,
+      "pmaid": "3909",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:licton-springs-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "9536 Ashworth Ave N, Seattle, WA 98103",
+      "lat": 47.698542,
+      "lng": -122.338735,
+      "pmaid": "286",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:duwamish-waterway-park": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "7900 10th Ave S, Seattle, WA 98106",
+      "lat": 47.531156,
+      "lng": -122.319694,
+      "pmaid": "705",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:herring-s-house-park": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "lat": 47.5622062,
+      "lng": -122.3498687,
+      "website": "https://www.portseattle.org/community/resources/parks/",
+      "osm": "relation/1240950",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-asian-art-museum": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1400 East Prospect Street, Seattle, WA 98112",
+      "lat": 47.6302957,
+      "lng": -122.3141354,
+      "website": "https://www.seattleartmuseum.org/visit/seattle-asian-art-museum",
+      "openingHours": "Th-Su 10:00-17:00",
+      "osm": "way/36839785",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:henry-art-gallery": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "4100 15th Avenue Northeast, Seattle, WA 98195",
+      "lat": 47.6565246,
+      "lng": -122.3117328,
+      "website": "https://www.henryart.org/",
+      "openingHours": "We-Su 11:00-16:00; Th 11:00-21:00",
+      "osm": "way/54029687",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:chihuly-garden-and-glass": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "305 Harrison Street, Seattle, WA 98109",
+      "lat": 47.6205296,
+      "lng": -122.3502071,
+      "website": "https://www.chihulygardenandglass.com/",
+      "openingHours": "Mo-Su 11:00-18:00; Fr,Sa 11:00-19:00",
+      "osm": "way/161587729",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:mohai": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:national-nordic-museum": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "2655 Northwest Market Street, Seattle, WA 98107",
+      "lat": 47.6682787,
+      "lng": -122.3917723,
+      "website": "https://www.nordicmuseum.org",
+      "openingHours": "Tu-We,Fr-Su 10:00-17:00; Th 10:00-20:00",
+      "osm": "way/438457488",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:northwest-african-american-museum": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "2300 South Massachusetts Street, Seattle, WA 98144",
+      "lat": 47.5891554,
+      "lng": -122.301934,
+      "website": "https://www.naamnw.org/",
+      "openingHours": "11:00-17:00",
+      "osm": "way/158605688",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:klondike-gold-rush-national-historical-park": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "319 2nd Avenue South, Seattle, WA 98104",
+      "lat": 47.599381,
+      "lng": -122.331864,
+      "website": "https://www.nps.gov/klse/index.htm",
+      "openingHours": "Fr-Su 10:00-17:00",
+      "osm": "node/356550191",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:log-house-museum": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "3003 61st Avenue Southwest, Seattle, WA 98116",
+      "lat": 47.5775947,
+      "lng": -122.4109498,
+      "website": "https://www.loghousemuseum.org/",
+      "osm": "way/233293332",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pacific-science-center": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "200 Sue Bird Court North, Seattle, WA 98109",
+      "lat": 47.6194061,
+      "lng": -122.350778,
+      "website": "https://www.pacificsciencecenter.org/",
+      "openingHours": "We-Su 10:00-17:00",
+      "osm": "way/394955903",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-aquarium": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "1483 Alaskan Way, Seattle, WA 98101",
+      "lat": 47.607411,
+      "lng": -122.342836,
+      "pmaid": "335",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:woodland-park-zoo": {
+      "status": "verified",
+      "source": "seattle-parks",
+      "address": "700 N 50th St, Seattle, WA 98103",
+      "lat": 47.666183,
+      "lng": -122.35043,
+      "pmaid": "200",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-children-s-museum": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "305 Harrison Street, Seattle, WA 98109",
+      "lat": 47.621462,
+      "lng": -122.3509886,
+      "website": "https://www.thechildrensmuseum.org/",
+      "openingHours": "Mo-Fr 10:00-17:00; Sa-Su 10:00-18:00",
+      "osm": "node/2494550791",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:museum-of-pop-culture": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "5th Avenue North, Seattle, WA 98109",
+      "lat": 47.6214931,
+      "lng": -122.3482253,
+      "website": "https://www.mopop.org/",
+      "openingHours": "10:00-17:00",
+      "osm": "way/161587742",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-pinball-museum": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 2,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:connections-museum": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:last-resort-fire-department-museum": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:georgetown-steam-plant": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "6505 13th Avenue South, Seattle, WA 98108",
+      "lat": 47.5427907,
+      "lng": -122.3162649,
+      "osm": "way/460348213",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:holocaust-center-for-humanity": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:gates-foundation-discovery-center": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:sea-mar-museum-of-chicano-a-latino-a-culture": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:duwamish-longhouse": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "4705 West Marginal Way Southwest, Seattle, WA 98106",
+      "lat": 47.5609419,
+      "lng": -122.3520011,
+      "website": "https://www.duwamishtribe.org/longhouse.html",
+      "openingHours": "Mo-Sa 10:00-17:00",
+      "osm": "way/228915487",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:daybreak-star-indian-cultural-center": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "5011 Bernie Whitebear Way, Seattle, WA 98199",
+      "lat": 47.6679292,
+      "lng": -122.4180263,
+      "website": "https://www.unitedindians.org/",
+      "openingHours": "Mo-Fr 09:00-17:00; PH off",
+      "osm": "way/159915631",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:japanese-cultural-and-community-center-of-washington": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:wa-na-wari": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:langston-hughes-performing-arts-institute": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pratt-fine-arts-center": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "South Main Street, Seattle, WA 98122",
+      "lat": 47.6003107,
+      "lng": -122.307402,
+      "website": "https://www.pratt.org/",
+      "osm": "way/228732858",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:hugo-house": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1634 11th Avenue, Seattle, WA 98122",
+      "lat": 47.6161894,
+      "lng": -122.317993,
+      "website": "https://hugohouse.org/",
+      "openingHours": "Tu-Th 16:30-19:30",
+      "osm": "node/9657301875",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:town-hall-seattle": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1119 8th Avenue, Seattle, WA 98101",
+      "lat": 47.6090191,
+      "lng": -122.3299377,
+      "website": "https://townhallseattle.org/",
+      "osm": "way/140675988",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:arts-at-king-street-station": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:el-centro-de-la-raza": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "2524 16th Avenue South, Seattle, WA 98144",
+      "lat": 47.580325,
+      "lng": -122.3112932,
+      "osm": "way/228721661",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:center-for-wooden-boats": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1010 Valley Street, Seattle, WA 98109",
+      "lat": 47.6271962,
+      "lng": -122.3359006,
+      "website": "https://www.cwb.org/",
+      "openingHours": "Mo-Fr 12:30-20:00; Sa-Su 10:00-20:00",
+      "osm": "way/49747361",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pike-place-market": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "85 Pike Street, Seattle, WA 98101",
+      "lat": 47.6093968,
+      "lng": -122.3414102,
+      "website": "https://www.pikeplacemarket.org/",
+      "openingHours": "Mo-Sa 09:00-18:00; Su 09:00-17:00; Nov Th[4] off; Dec 25 off",
+      "osm": "way/363400641",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pike-place-fish-market": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "86 Pike Street, Seattle, WA 98101",
+      "lat": 47.608632,
+      "lng": -122.3407292,
+      "website": "https://www.pikeplacefish.com",
+      "openingHours": "Mo-Sa 06:30-18:00; Su 07:00-17:00",
+      "osm": "node/2397497121",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:rachel-the-pig": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:gum-wall": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "Post Alley, Seattle, WA 98101",
+      "lat": 47.6084169,
+      "lng": -122.340379,
+      "openingHours": "24/7",
+      "osm": "node/2443738130",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:post-alley": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 6,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:marketfront": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "Western Avenue, Seattle, WA 98181",
+      "lat": 47.6094922,
+      "lng": -122.342888,
+      "website": "https://www.pikeplacemarket.org/marketfront",
+      "osm": "way/184870424",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:space-needle": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "400 Broad Street, Seattle, WA 98109",
+      "lat": 47.6205131,
+      "lng": -122.3493036,
+      "website": "https://www.spaceneedle.com/",
+      "openingHours": "Mo-Th 09:00-22:00; Fr-Su 08:00-00:00",
+      "osm": "way/12903132",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-center-monorail": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 4,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:international-fountain": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "Harrison Street, Seattle, WA 98121",
+      "lat": 47.622503,
+      "lng": -122.352025,
+      "osm": "way/35352476",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:artists-at-play-playground": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "Next 50 Plaza, Seattle, WA 98121",
+      "lat": 47.6218308,
+      "lng": -122.3492232,
+      "website": "https://www.seattlecenter.com/news/detail.aspx?id=1932",
+      "openingHours": "Mo-Su 06:00-22:00",
+      "osm": "node/8534953369",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:smith-tower": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "506 2nd Avenue, Seattle, WA 98104",
+      "lat": 47.6020094,
+      "lng": -122.3317853,
+      "website": "https://www.smithtower.com/",
+      "osm": "way/52781661",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:sky-view-observatory": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "701 5th Avenue, Seattle, WA 98104",
+      "lat": 47.6045392,
+      "lng": -122.3308714,
+      "website": "https://www.skyviewobservatory.com/",
+      "openingHours": "10:00-20:00",
+      "osm": "node/4118274014",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:king-street-station": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "303 South Jackson Street, Seattle, WA 98104",
+      "lat": 47.5984461,
+      "lng": -122.3298978,
+      "website": "https://www.amtrak.com/servlet/ContentServer?pagename=am/am2Station/Station_Page&code=SEA",
+      "openingHours": "06:00-23:00",
+      "osm": "way/4725281",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:the-spheres": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "2101 7th Avenue, Seattle, WA 98121",
+      "lat": 47.6156532,
+      "lng": -122.3394822,
+      "osm": "way/868099742",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:ballard-locks-and-fish-ladder": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fishermen-s-terminal": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 2,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:west-point-lighthouse": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:alki-point-lighthouse": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "3201 Alki Avenue Southwest, Seattle, WA 98116",
+      "lat": 47.5762614,
+      "lng": -122.4206067,
+      "website": "http://wow.uscgaux.info/content.php?unit=130-02&category=alki-pt-lighthouse#.U-GE1vldW0I",
+      "osm": "way/223489881",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:west-seattle-water-taxi": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:bainbridge-ferry-ride": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:hammering-man": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "100 University Street, Seattle, WA 98101",
+      "lat": 47.6070303,
+      "lng": -122.3381247,
+      "osm": "node/3211770153",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:black-sun": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1400 East Galer Street, Seattle, WA 98112",
+      "lat": 47.6299452,
+      "lng": -122.315202,
+      "osm": "node/772402830",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:chief-seattle-statue": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:bruce-and-brandon-lee-graves": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "East Highland Drive, Seattle, WA 98102",
+      "lat": 47.6337709,
+      "lng": -122.3158824,
+      "osm": "node/3331304130",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:jimi-hendrix-statue": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:underground-tour": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "614 1st Avenue, Seattle, WA 98104",
+      "lat": 47.6023507,
+      "lng": -122.333723,
+      "website": "https://undergroundtour.com/",
+      "osm": "node/825301150",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:beneath-the-streets": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "102 Cherry Street, Seattle, WA 98104",
+      "lat": 47.6027458,
+      "lng": -122.3341239,
+      "website": "https://www.beneath-the-streets.com/",
+      "osm": "node/3006173065",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:st-james-cathedral": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:st-mark-s-cathedral": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fremont-troll": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "Aurora Bridge, Seattle, WA 98013",
+      "lat": 47.6510483,
+      "lng": -122.347234,
+      "osm": "node/2485251324",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fremont-rocket": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "North 35th Street, Seattle, WA 98013",
+      "lat": 47.6506264,
+      "lng": -122.351184,
+      "website": "https://fremont.com/about/storyrocket-html/",
+      "osm": "node/1855132272",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:waiting-for-the-interurban": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "North 34th Street, Seattle, WA 98013",
+      "lat": 47.6494562,
+      "lng": -122.3494782,
+      "osm": "node/1322649036",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:lenin-statue": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:hat-n-boots": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "Corson Avenue South, Seattle, WA 98108",
+      "lat": 47.5451351,
+      "lng": -122.3218663,
+      "osm": "relation/11558527",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:uw-quad": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:suzzallo-library-reading-room": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:drumheller-fountain": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "3900 Rainier Vista Northeast, Seattle, WA 98118",
+      "lat": 47.6538087,
+      "lng": -122.3078047,
+      "osm": "way/8097377",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:rainier-vista": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 2,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:espresso-vivace": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "532 Broadway East, Seattle, WA 98102",
+      "lat": 47.6238007,
+      "lng": -122.3207443,
+      "website": "https://espressovivace.com/retail/brix/",
+      "openingHours": "Mo-Su 06:00-19:00",
+      "osm": "node/2131717376",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:cafe-allegro": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "4212 University Way Northeast, Seattle, WA 98105",
+      "lat": 47.6586927,
+      "lng": -122.312716,
+      "website": "https://seattleallegro.com/",
+      "openingHours": "Mo-Fr 07:00-18:00; Sa,Su 08:00-18:00",
+      "osm": "node/1888703358",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:lighthouse-roasters": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "400 North 43rd Street, Seattle, WA 98103",
+      "lat": 47.6590626,
+      "lng": -122.3542449,
+      "website": "https://www.lighthouseroasters.com",
+      "openingHours": "Mo-Su 08:00-16:00",
+      "osm": "node/1308152010",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:caffe-vita": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 6,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:victrola-coffee": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 6,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:caffe-ladro": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 6,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:caffe-umbria": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 3,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:herkimer-coffee": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "2121 4th Avenue, Seattle, WA 98121",
+      "lat": 47.6141153,
+      "lng": -122.3423034,
+      "openingHours": "Mo-Fr 07:30-14:00",
+      "osm": "node/2561809375",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:zoka-coffee": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 2,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:monorail-espresso": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 3,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:uptown-espresso": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 3,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fremont-coffee-company": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "459 North 36th Street, Seattle, WA 98103",
+      "lat": 47.6517127,
+      "lng": -122.3530775,
+      "website": "http://www.fremontcoffee.net/",
+      "openingHours": "Mo-Fr 06:00-20:00; Sa-Su 07:00-20:00",
+      "osm": "way/115699732",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:cloud-city-coffee": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "8801 Roosevelt Way Northeast, Seattle, WA 98115",
+      "lat": 47.6922769,
+      "lng": -122.3180011,
+      "website": "https://www.cloudcitycoffee.com/",
+      "openingHours": "Mo-Su 06:00-16:00",
+      "osm": "node/2302550697",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:couth-buzzard": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "8310 Greenwood Avenue North, Seattle, WA 98103",
+      "lat": 47.6895162,
+      "lng": -122.3550934,
+      "website": "https://www.couthbuzzard.com/",
+      "openingHours": "Mo, We-Fr 10:00-21:00; Sa-Su 09:00-21:00",
+      "osm": "node/2131755319",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:milstead-and-co": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "754 North 34th Street, Seattle, WA 98103",
+      "lat": 47.649393,
+      "lng": -122.3476154,
+      "openingHours": "Mo-Fr 06:00-18:00; Sa-Su 07:00-18:00",
+      "osm": "node/2167340902",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:analog-coffee": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "235 Summit Avenue East, Seattle, WA 98102",
+      "lat": 47.6207259,
+      "lng": -122.325462,
+      "website": "https://analogcoffee.com",
+      "openingHours": "Mo-Su 07:00-18:00",
+      "osm": "node/2158667407",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:ghost-note-coffee": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1623 Bellevue Avenue, Seattle, WA 98122",
+      "lat": 47.6159256,
+      "lng": -122.3270324,
+      "website": "https://ghostnotecoffee.com",
+      "openingHours": "Mo,We-Fr 07:00-17:00; Tu 07:00-15:00; Sa-Su 08:00-18:00",
+      "osm": "node/4243769089",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:elm-coffee-roasters": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:anchorhead-coffee": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1115 12th Avenue, Seattle, WA 98122",
+      "lat": 47.6120238,
+      "lng": -122.316993,
+      "website": "https://anchorheadcoffee.com/",
+      "osm": "node/3511071062",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fulcrum-coffee": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "590 Bell Street, Seattle, WA 98121",
+      "lat": 47.616642,
+      "lng": -122.342594,
+      "website": "https://fulcrumcoffee.com",
+      "openingHours": "Mo-Fr 08:00-18:00; Sa,Su 08:00-17:00",
+      "osm": "node/6230992285",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:cafe-hagen": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 2,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:olympia-coffee": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 3,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:sound-and-fog": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "4735 40th Avenue Southwest, Seattle, WA 98116",
+      "lat": 47.5599043,
+      "lng": -122.3830747,
+      "website": "https://www.soundandfog.com",
+      "openingHours": "Su-Th 07:00-17:00; Fr,Sa 07:00-17:30",
+      "osm": "node/5736976722",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:boon-boona": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 2,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:cafe-avole": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:hello-em": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "South Weller Street, Seattle, WA 98144",
+      "lat": 47.5973809,
+      "lng": -122.3154424,
+      "website": "https://www.helloem.coffee",
+      "openingHours": "Su-Fr 08:00-16:00; Sa 08:00-17:00",
+      "osm": "node/8681347917",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:phin": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "913 South Jackson Street, Seattle, WA 98104",
+      "lat": 47.598778,
+      "lng": -122.3198523,
+      "osm": "node/8098643633",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:coffeeholic-house": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 3,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:phe": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "721 East Pine Street, Seattle, WA 98122",
+      "lat": 47.6150844,
+      "lng": -122.3225097,
+      "website": "https://phecafe.com/",
+      "openingHours": "Mo-Fr 08:00-16:00; Sa-Su 09:00-17:00",
+      "osm": "node/12861633703",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:push-x-pull": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "2407 East Union Street, Seattle, WA 98122",
+      "lat": 47.6128058,
+      "lng": -122.3011069,
+      "website": "https://pushxpullcoffee.com/pages/locations",
+      "openingHours": "08:00-15:00",
+      "osm": "node/6887188997",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:ancient-gate-coffee": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "4530 University Way Northeast, Seattle, WA 98105",
+      "lat": 47.6622151,
+      "lng": -122.3129367,
+      "website": "https://www.ancientgatecoffee.com/",
+      "openingHours": "Mo-Sa 08:00-17:00; Su closed",
+      "osm": "node/12847612701",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:mr-west": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "2685 Northeast Village Lane, Seattle, WA 98105",
+      "lat": 47.6620948,
+      "lng": -122.2982294,
+      "website": "http://mrwestcafebar.com/locations/#university-village",
+      "osm": "node/2462325442",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:bonhomie-coffee-bar": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "2800 1st Avenue, Seattle, WA 98121",
+      "lat": 47.6165949,
+      "lng": -122.351586,
+      "osm": "node/14165547211",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:slow-day-coffee": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:cardoon": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "2423 Northwest Market Street, Seattle, WA 98107",
+      "lat": 47.6684106,
+      "lng": -122.38901,
+      "website": "https://cardoonseattle.com/",
+      "openingHours": "Su-Mo, We-Fr 08:00-16:00; Sa 08:00-20:00",
+      "osm": "node/13311996901",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:day-made-kaffe-bar": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:starbucks-at-1912-pike-place": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:dick-s-drive-in": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 5,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:ivar-s-acres-of-clams": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1001 Alaskan Way, Seattle, WA 98104",
+      "lat": 47.6039951,
+      "lng": -122.339058,
+      "website": "https://www.ivars.com/locations/acres-of-clams",
+      "openingHours": "Mo-Su 10:00-21:00",
+      "osm": "node/2441069288",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:ivar-s-salmon-house": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "401 Northeast Northlake Way, Seattle, WA 98105",
+      "lat": 47.6536059,
+      "lng": -122.3240253,
+      "website": "https://www.ivars.com/locations/salmon-house",
+      "openingHours": "Mo-Su 11:00-22:00",
+      "osm": "way/195830693",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:canlis": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "2576 Aurora Avenue North, Seattle, WA 98109",
+      "lat": 47.6430534,
+      "lng": -122.3467361,
+      "website": "https://canlis.com/",
+      "openingHours": "Tu-Sa 17:00+",
+      "osm": "way/226140209",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:maneki": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "304 6th Avenue South, Seattle, WA 98104",
+      "lat": 47.5997484,
+      "lng": -122.3261385,
+      "website": "https://www.manekiseattle.com/",
+      "openingHours": "Tu-Su 17:00-21:00",
+      "osm": "node/2434520560",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:tai-tung": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "655 South King Street, Seattle, WA 98104",
+      "lat": 47.5982365,
+      "lng": -122.3247951,
+      "website": "https://www.taitungrestaurant.com",
+      "osm": "node/2434527349",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:pho-bac": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1923 7th Avenue, Seattle, WA 98101",
+      "lat": 47.6147655,
+      "lng": -122.3372433,
+      "website": "https://www.thephobac.com/",
+      "osm": "node/2327741601",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:the-athenian": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1517 Pike Place, Seattle, WA 98101",
+      "lat": 47.6088145,
+      "lng": -122.3412989,
+      "website": "https://www.athenianseattle.com/",
+      "openingHours": "Mo-Th 08:00-20:00; Fr-Sa 08:00-21:00; Su 09:00-16:00",
+      "osm": "node/6240206585",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:lowell-s": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1519 Pike Place, Seattle, WA 98101",
+      "lat": 47.6088303,
+      "lng": -122.3413154,
+      "website": "http://eatatlowells.com",
+      "openingHours": "Mo-Sa 07:00-21:00; Su 07:00-20:00",
+      "osm": "node/2397460944",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:beecher-s": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1600 Pike Place, Seattle, WA 98101",
+      "lat": 47.6095818,
+      "lng": -122.3418158,
+      "website": "https://www.beechershandmadecheese.com/cafe/pike-place-market/",
+      "openingHours": "Mo-Su 08:00-19:00",
+      "osm": "node/2397485856",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:three-girls-bakery": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1514 Pike Place, Seattle, WA 98101",
+      "lat": 47.6090057,
+      "lng": -122.34087,
+      "openingHours": "06:00-18:00",
+      "osm": "node/2397497097",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:market-grill": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:oriental-mart": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1506 Pike Place, Seattle, WA 98101",
+      "lat": 47.6089213,
+      "lng": -122.3407486,
+      "osm": "node/2397497091",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:le-pichet": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1st Avenue, Seattle, WA 98181",
+      "lat": 47.6108072,
+      "lng": -122.342558,
+      "website": "https://www.lepichetseattle.com/",
+      "openingHours": "08:00-00:00",
+      "osm": "node/1999390894",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:the-pink-door": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1919 Post Alley, Seattle, WA 98101",
+      "lat": 47.6103875,
+      "lng": -122.3425312,
+      "website": "https://www.thepinkdoor.net",
+      "osm": "node/4919958621",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:matt-s-in-the-market": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "94 Pike Street, Seattle, WA 98101",
+      "lat": 47.608856,
+      "lng": -122.3405657,
+      "website": "https://mattsinthemarket.com/",
+      "openingHours": "Mo-Sa 11:30-14:30,17:30-22:00",
+      "osm": "node/3599790535",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:the-walrus-and-the-carpenter": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "4743 Ballard Avenue Northwest, Seattle, WA 98107",
+      "lat": 47.6636067,
+      "lng": -122.3801366,
+      "website": "http://www.thewalrusbar.com/",
+      "openingHours": "16:00-22:00",
+      "osm": "node/2138389728",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:ray-s-boathouse": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "6049 Seaview Avenue Northwest, Seattle, WA 98107",
+      "lat": 47.6733773,
+      "lng": -122.4075723,
+      "website": "https://www.rays.com/",
+      "openingHours": "Mo-Su 11:30-21:00",
+      "osm": "node/2140513210",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:the-lockspot": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:chinook-s": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 2,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:beth-s-cafe": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "7311 Aurora Avenue North, Seattle, WA 98103",
+      "lat": 47.6821453,
+      "lng": -122.344708,
+      "website": "https://www.bethscafe.com/",
+      "openingHours": "24/7",
+      "osm": "node/427307160",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:ezell-s": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 4,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:un-bien": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 3,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:paseo": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 2,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:salumi": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "404 Occidental Avenue South, Seattle, WA 98104",
+      "lat": 47.5989831,
+      "lng": -122.332672,
+      "website": "https://salumicuredmeats.com/",
+      "openingHours": "Tu-Sa 11:00-16:00; Su,Mo off",
+      "osm": "node/2351726218",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:marination-ma-kai": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1660 Harbor Avenue Southwest, Seattle, WA 98126",
+      "lat": 47.5894296,
+      "lng": -122.3805678,
+      "website": "https://marinationmobile.com/",
+      "openingHours": "Mo-Th 11:00-20:00; Fr, Sa 09:00-21:00; Su 09:00-20:00",
+      "osm": "node/1177562515",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:salty-s-on-alki": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:loretta-s-northwesterner": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "8617 14th Avenue South, Seattle, WA 98108",
+      "lat": 47.5258713,
+      "lng": -122.3151259,
+      "website": "https://lorettasnorthwesterner.com",
+      "openingHours": "Mo-Th 11:00-24:00, Fr 11:00-24:00, Sa 00:00-02:00, Sa 10:00-24:00, Su 00:00-02:00, Su 10:00-24:00",
+      "osm": "node/2328499910",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:tacos-chukis": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 4,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:tilikum-place-cafe": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "407 Cedar Street, Seattle, WA 98121",
+      "lat": 47.6179341,
+      "lng": -122.3475939,
+      "website": "https://www.tilikumplacecafe.com/",
+      "osm": "node/2327596943",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:bakery-nouveau": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 2,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:macrina-bakery": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 5,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:sea-wolf-bakers": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:saint-bread": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1421 Northeast Boat Street, Seattle, WA 98105",
+      "lat": 47.6505228,
+      "lng": -122.313038,
+      "website": "https://www.saintbread.com",
+      "osm": "way/223357451",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:le-panier": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1902 Pike Place, Seattle, WA 98101",
+      "lat": 47.6098259,
+      "lng": -122.3422774,
+      "website": "https://www.lepanier.com/",
+      "openingHours": "07:00-18:00",
+      "osm": "node/2169291687",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:dahlia-bakery": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "2001 4th Avenue, Seattle, WA 98101",
+      "lat": 47.6131441,
+      "lng": -122.3405254,
+      "website": "https://tomdouglas.com/index.php?page=dahlia-bakery",
+      "openingHours": "Mo-Su 08:00-15:00",
+      "osm": "node/2696312533",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fuji-bakery": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 2,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:hood-famous": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 2,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:temple-pastries": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "2524 South Jackson Street, Seattle, WA 98144",
+      "lat": 47.5994034,
+      "lng": -122.298889,
+      "website": "https://www.templepastries.com",
+      "openingHours": "Mo-Su 07:00-15:00",
+      "osm": "node/8518587292",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:columbia-city-bakery": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "4865 Rainier Avenue South, Seattle, WA 98118",
+      "lat": 47.5581793,
+      "lng": -122.2854376,
+      "website": "https://www.columbiacitybakery.com",
+      "openingHours": "We-Sa 08:00-15:00",
+      "osm": "node/2338569326",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:larsen-s-bakery": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "8000 24th Avenue Northwest, Seattle, WA 98117",
+      "lat": 47.6869257,
+      "lng": -122.3873766,
+      "website": "https://www.larsensbakery.com/",
+      "openingHours": "Mo-Sa 05:30-19:30; Su 05:30-18:00",
+      "osm": "node/2143509903",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:coyle-s-bakeshop": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "8300 Greenwood Avenue North, Seattle, WA 98103",
+      "lat": 47.6892216,
+      "lng": -122.355056,
+      "website": "http://coylesbakeshop.com",
+      "openingHours": "We-Su 07:00-15:00",
+      "osm": "node/3644696077",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:mighty-o-donuts": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 3,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:top-pot-doughnuts": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 6,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:daily-dozen-doughnut-company": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:molly-moon-s": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "4556 California Avenue Southwest, Seattle, WA 98116",
+      "lat": 47.5612196,
+      "lng": -122.3865559,
+      "website": "https://mollymoon.com/locations/west-seattle",
+      "openingHours": "Mo-Su 12:00-22:00",
+      "osm": "node/440842898",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:husky-deli": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:shug-s-soda-fountain": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:blue-moon-tavern": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "712 Northeast 45th Street, Seattle, WA 98105",
+      "lat": 47.6615236,
+      "lng": -122.320028,
+      "website": "https://www.thebluemoonseattle.com/",
+      "openingHours": "Su 15:00-24:00; Mo-Sa 15:00-02:00",
+      "osm": "way/467115615",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:merchants-cafe": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:central-saloon": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "207 1st Avenue South, Seattle, WA 98104",
+      "lat": 47.6006031,
+      "lng": -122.3344038,
+      "website": "https://www.centralsaloon.com/",
+      "osm": "node/1398968532",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:shorty-s": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "2316 2nd Avenue, Seattle, WA 98121",
+      "lat": 47.6145079,
+      "lng": -122.3460868,
+      "website": "https://shortydog.com",
+      "openingHours": "Mo-Su 12:00-26:00",
+      "osm": "node/2327659341",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:the-5-point": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "415 Cedar Street, Seattle, WA 98121",
+      "lat": 47.6181294,
+      "lng": -122.3473344,
+      "website": "https://www.the5pointcafe.com/",
+      "osm": "node/3365331393",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:hattie-s-hat": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "5231 Ballard Avenue Northwest, Seattle, WA 98107",
+      "lat": 47.6661245,
+      "lng": -122.3830931,
+      "website": "https://hatties-hat.com/",
+      "openingHours": "Mo 10:00-24:00, Tu-Fr 10:00-02:00, Sa 09:00-02:00, Su 09:00-24:00",
+      "osm": "node/1308163937",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:the-sloop": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:linda-s-tavern": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "707 East Pine Street, Seattle, WA 98122",
+      "lat": 47.6150663,
+      "lng": -122.3230115,
+      "website": "https://www.lindastavern.com/",
+      "openingHours": "Mo-Fr 16:00-02:00, Sa,Su 10:00-02:00",
+      "osm": "way/206623323",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:comet-tavern": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "922 East Pike Street, Seattle, WA 98122",
+      "lat": 47.6142126,
+      "lng": -122.3196324,
+      "website": "https://thecomettavern.com/",
+      "openingHours": "12:00-02:00",
+      "osm": "node/1194793097",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:crescent-lounge": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:unicorn": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 2,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:canon": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "928 12th Avenue, Seattle, WA 98122",
+      "lat": 47.6112731,
+      "lng": -122.3164758,
+      "website": "https://www.canonseattle.com",
+      "openingHours": "Mo off; Tu off; We-Th 17:00-01:00; Fr-Sa 17:00-02:00; Su 17:00-01:00",
+      "osm": "way/353686155",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:bathtub-gin-and-co": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "2205 Blanchard Street, Seattle, WA 98119",
+      "lat": 47.6131345,
+      "lng": -122.3450044,
+      "website": "https://www.bathtubginseattle.com",
+      "openingHours": "Mo-Su 17:00-02:00",
+      "osm": "node/1607121865",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:foreign-national": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fremont-brewing": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "3808 South Edmunds Street, Seattle, WA 98118",
+      "lat": 47.5587746,
+      "lng": -122.2850109,
+      "osm": "node/2338546715",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:georgetown-brewing": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "Denver Avenue South, Seattle, WA 98108",
+      "lat": 47.5552618,
+      "lng": -122.3256809,
+      "website": "https://georgetownbeer.com/",
+      "openingHours": "Mo-Su 10:00-20:00",
+      "osm": "node/5745659921",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:reuben-s-brews": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "4401 Fremont Avenue North, Seattle, WA 98103",
+      "lat": 47.6603483,
+      "lng": -122.3502975,
+      "website": "https://reubensbrews.com/location/fremont",
+      "openingHours": "Mo-Su 11:00-22:00",
+      "osm": "way/234930546",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:stoup-brewing": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 2,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:urban-family-brewing": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1103 Northwest 52nd Street, Seattle, WA 98107",
+      "lat": 47.6661818,
+      "lng": -122.37103,
+      "website": "https://urbanfamilybrewing.com",
+      "openingHours": "Mo-Sa 08:00-22:00; Su 08:00-22:00",
+      "osm": "node/7241641164",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:holy-mountain-brewing": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1421 Elliott Avenue West, Seattle, WA 98119",
+      "lat": 47.6308277,
+      "lng": -122.3745615,
+      "website": "https://www.holymountainbrewing.com/",
+      "osm": "node/2462428042",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:third-place-books-ravenna": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:third-place-books-seward-park": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:university-book-store": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 2,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:magus-books": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1408 Northeast 42nd Street, Seattle, WA 98105",
+      "lat": 47.6584244,
+      "lng": -122.3127804,
+      "website": "https://www.magusbooksseattle.com/",
+      "openingHours": "Su-Th 10:00-20:00; Fr-Sa 10:00-22:00",
+      "osm": "node/1888703372",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:twice-sold-tales": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 2,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:open-books": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "108 Cherry Street, Seattle, WA 98104",
+      "lat": 47.6028122,
+      "lng": -122.3339575,
+      "openingHours": "We-Sa 00:00-17:00; Su 00:00-16:00",
+      "osm": "node/3006173067",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:arundel-books": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "322 1st Avenue South, Seattle, WA 98104",
+      "lat": 47.5993453,
+      "lng": -122.3339767,
+      "website": "https://www.arundelbooks.com/",
+      "openingHours": "Mo-Su 10:00-19:00",
+      "osm": "node/2351712458",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:book-larder": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "4252 Fremont Avenue North, Seattle, WA 98103",
+      "lat": 47.6587963,
+      "lng": -122.3498789,
+      "website": "https://booklarder.com/",
+      "openingHours": "Mo-Fr 11:00-18:00; Sa 11:00-17:00; Su 12:00-16:00",
+      "osm": "node/2144293445",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:charlie-s-queer-books": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "465 North 36th Street, Seattle, WA 98103",
+      "lat": 47.6517179,
+      "lng": -122.3528563,
+      "website": "https://charliesqueerbooks.com",
+      "openingHours": "Su 11:00-17:00; Mo-Sa 11:00-19:00",
+      "osm": "node/1248842374",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:phinney-books": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "7405 Greenwood Avenue North, Seattle, WA 98103",
+      "lat": 47.682777,
+      "lng": -122.3554961,
+      "website": "http://www.phinneybooks.com/",
+      "openingHours": "Mo-Sa 10:00-19:00; Su 12:00-17:00",
+      "osm": "node/3965306992",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:secret-garden-books": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "2214 Northwest Market Street, Seattle, WA 98107",
+      "lat": 47.668852,
+      "lng": -122.3855492,
+      "website": "https://www.secretgardenbooks.com/",
+      "openingHours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-17:00",
+      "osm": "node/2138399538",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:queen-anne-book-company": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1811 Queen Anne Avenue North, Seattle, WA 98109",
+      "lat": 47.6351239,
+      "lng": -122.3574206,
+      "website": "https://www.qabookco.com/",
+      "openingHours": "Mo-Fr 10:00-18:00; Sa-Su 10:00-17:00",
+      "osm": "way/189443275",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:fantagraphics-bookstore": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:kinokuniya": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "525 South Weller Street, Seattle, WA 98104",
+      "lat": 47.5973286,
+      "lng": -122.3266853,
+      "website": "http://www.kinokuniya.com/",
+      "openingHours": "Mo-Su 10:00-20:00",
+      "osm": "way/360439958",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:estelita-s-library": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "241 Martin Luther King Junior Way South, Seattle, WA 98144",
+      "lat": 47.6005203,
+      "lng": -122.2973001,
+      "website": "https://estelitaslibrary.org/",
+      "openingHours": "unknown \"hours vary, see event calendar on website\"",
+      "osm": "way/228735419",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:easy-street-records": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "Southwest Alaska Street, Seattle, WA 98116",
+      "lat": 47.5612592,
+      "lng": -122.3870222,
+      "osm": "node/1178216008",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:sonic-boom-records": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "2209 Northwest Market Street, Seattle, WA 98107",
+      "lat": 47.6685217,
+      "lng": -122.3850971,
+      "website": "https://www.sonicboomrecords.com",
+      "openingHours": "Mo-Su 11:00-19:00",
+      "osm": "node/2275838764",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:scarecrow-video": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "5030 Roosevelt Way Northeast, Seattle, WA 98105",
+      "lat": 47.6659623,
+      "lng": -122.3170725,
+      "website": "https://scarecrowvideo.org/",
+      "openingHours": "Th-Tu 12:00-20:00; We 12:00-22:00",
+      "osm": "way/94699556",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:archie-mcphee": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1300 North 45th Street, Seattle, WA 98103",
+      "lat": 47.6616559,
+      "lng": -122.3417219,
+      "website": "https://archiemcpheeseattle.com/",
+      "openingHours": "Mo-Sa 10:00-20:00; Su 11:00-19:00",
+      "osm": "way/93319439",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:ye-olde-curiosity-shop": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1001 Alaskan Way, Seattle, WA 98104",
+      "lat": 47.6043151,
+      "lng": -122.3400295,
+      "website": "https://www.yeoldecuriosityshop.com/",
+      "openingHours": "Mo-Su 09:30-21:30",
+      "osm": "node/2485617525",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:georgetown-trailer-park-mall": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "South Homer Street, Seattle, WA 98108",
+      "lat": 47.5504108,
+      "lng": -122.3188018,
+      "openingHours": "Sa-Su 10:00-18:00",
+      "osm": "way/1216391551",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-antiques-market": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1400 Alaskan Way, Seattle, WA 98101",
+      "lat": 47.6074581,
+      "lng": -122.3409483,
+      "osm": "way/397007183",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:golden-age-collectables": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:old-seattle-paperworks": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:uwajimaya": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 2,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:delaurenti": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1435 1st Avenue, Seattle, WA 98101",
+      "lat": 47.6086519,
+      "lng": -122.340082,
+      "osm": "node/2397493573",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:rei-flagship": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:add-a-ball": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "315 North 36th Street, Seattle, WA 98103",
+      "lat": 47.6520035,
+      "lng": -122.3549055,
+      "website": "https://add-a-ball.com/home/",
+      "openingHours": "Mo-Su 16:00-02:00",
+      "osm": "node/2565919678",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:jupiter-bar": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "2126 2nd Avenue, Seattle, WA 98121",
+      "lat": 47.6132144,
+      "lng": -122.3438682,
+      "osm": "node/2327723398",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:mox-boarding-house": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "5105 Leary Avenue Northwest, Seattle, WA 98107",
+      "lat": 47.6649868,
+      "lng": -122.38047,
+      "website": "https://www.moxboardinghouse.com/ballard/",
+      "openingHours": "Mo-Th 11:00-22:00; Fr 11:00-24:00; Sa 10:00-24:00; Su 10:00-22:00",
+      "osm": "node/2138389827",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:raygun-lounge": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "501 East Pine Street, Seattle, WA 98122",
+      "lat": 47.6150856,
+      "lng": -122.3251369,
+      "website": "https://www.gammaraygamestore.com/",
+      "openingHours": "Mo-Th 16:00-23:00; Fr 16:00-01:00; Sa 14:00-01:00; Su 14:00-23:00",
+      "osm": "node/2703661948",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:gameworks": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1511 7th Avenue, Seattle, WA 98101",
+      "lat": 47.6117997,
+      "lng": -122.3339965,
+      "openingHours": "We,Th 12:00-21:00; Fr 12:00-23:00; Su 11:00-21:00; Sa 11:00-23:00",
+      "osm": "node/2404230935",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:flatstick-pub": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "609 Westlake Avenue North, Seattle, WA 98109",
+      "lat": 47.6250152,
+      "lng": -122.338768,
+      "website": "https://flatstickpub.com/south-lake-union/",
+      "openingHours": "Su-Th 11:00-24:00; Fr-Sa 11:00-02:00",
+      "osm": "node/4192785654",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:kraken-community-iceplex": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "10601 5th Avenue Northeast, Seattle, WA 98125",
+      "lat": 47.7062636,
+      "lng": -122.3252278,
+      "website": "https://www.krakencommunityiceplex.com",
+      "osm": "way/940481177",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:the-showbox": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1426 1st Avenue, Seattle, WA 98101",
+      "lat": 47.6085136,
+      "lng": -122.3394726,
+      "website": "http://www.showboxonline.com/index.php",
+      "osm": "node/2397493611",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:showbox-sodo": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1700 1st Avenue South, Seattle, WA 98134",
+      "lat": 47.5880461,
+      "lng": -122.333928,
+      "website": "https://www.showboxpresents.com/",
+      "osm": "node/2351345516",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:the-crocodile": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "2505 1st Avenue, Seattle, WA 98121",
+      "lat": 47.6146474,
+      "lng": -122.3490734,
+      "website": "https://www.thecrocodile.com/",
+      "osm": "node/2968389933",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:neumos": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "925 East Pike Street, Seattle, WA 98122",
+      "lat": 47.613954,
+      "lng": -122.3196108,
+      "website": "https://www.neumos.com",
+      "openingHours": "Mo-Fr 10:00-18:00",
+      "osm": "node/1194791180",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:barboza": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "925 East Pike Street, Seattle, WA 98122",
+      "lat": 47.6138274,
+      "lng": -122.3196284,
+      "website": "https://www.thebarboza.com/",
+      "osm": "node/11177907381",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:paramount-theatre": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "911 Pine Street, Seattle, WA 98101",
+      "lat": 47.6132449,
+      "lng": -122.331356,
+      "website": "https://www.stgpresents.org/stg-venues/paramount-theatre/",
+      "osm": "way/115042486",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:moore-theatre": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:neptune-theatre": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1303 Northeast 45th Street, Seattle, WA 98015",
+      "lat": 47.6611364,
+      "lng": -122.3140309,
+      "website": "https://www.stgpresents.org/stg-venues/neptune-theatre/",
+      "openingHours": "Mo-Fr 10:00-18:00",
+      "osm": "node/31368542",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:tractor-tavern": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "5213 Ballard Avenue Northwest, Seattle, WA 98107",
+      "lat": 47.6657081,
+      "lng": -122.382803,
+      "website": "https://tractortavern.com/",
+      "openingHours": "20:00-02:00",
+      "osm": "way/184092567",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:sunset-tavern": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "5433 Ballard Avenue Northwest, Seattle, WA 98107",
+      "lat": 47.6682756,
+      "lng": -122.3860837,
+      "website": "https://sunsettavern.com/",
+      "openingHours": "17:00+",
+      "osm": "node/2275831293",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:conor-byrne": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "5140 Ballard Avenue Northwest, Seattle, WA 98107",
+      "lat": 47.6654648,
+      "lng": -122.38188,
+      "website": "https://www.conorbyrnepub.com",
+      "openingHours": "Mo-Sa 17:00-02:00; Su 12:00-02:00",
+      "osm": "node/2138389856",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:nectar-lounge": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "412 North 36th Street, Seattle, WA 98103",
+      "lat": 47.6523876,
+      "lng": -122.3538542,
+      "website": "https://nectarlounge.com/",
+      "openingHours": "20:00-02:00",
+      "osm": "way/117752666",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:the-royal-room": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "5000 Rainier Avenue South, Seattle, WA 98118",
+      "lat": 47.5569023,
+      "lng": -122.2842722,
+      "website": "https://theroyalroomseattle.com/",
+      "osm": "node/2429623367",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:columbia-city-theater": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "4916 Rainier Avenue South, Seattle, WA 98118",
+      "lat": 47.5572047,
+      "lng": -122.2842722,
+      "website": "https://columbiacitytheater.com/",
+      "osm": "way/603767204",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:clock-out-lounge": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "4864 Beacon Avenue South, Seattle, WA 98108",
+      "lat": 47.5590274,
+      "lng": -122.30395,
+      "website": "https://clockoutlounge.com/",
+      "openingHours": "Mo-Th, Su 16:00-22:00; Fr, Sa 16:00-23:00",
+      "osm": "node/2371319981",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:sea-monster-lounge": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "2202 North 45th Street, Seattle, WA 98103",
+      "lat": 47.6615049,
+      "lng": -122.332319,
+      "website": "https://www.seamonsterlounge.com/",
+      "openingHours": "Tu-Fr 19:00-02:00; Sa 18:00-02:00; Mo 21:00-02:00; Su \"hours vary\"",
+      "osm": "node/2061048097",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:dimitriou-s-jazz-alley": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "2033 6th Avenue, Seattle, WA 98121",
+      "lat": 47.6148163,
+      "lng": -122.339691,
+      "website": "http://www.jazzalley.com/",
+      "osm": "node/2327732103",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:the-triple-door": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "216 Union Street, Seattle, WA 98101",
+      "lat": 47.6086439,
+      "lng": -122.337685,
+      "website": "https://thetripledoor.net/",
+      "osm": "node/2404249354",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:vera-project": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "305 Harrison Street, Seattle, WA 98109",
+      "lat": 47.6230993,
+      "lng": -122.3538774,
+      "website": "https://theveraproject.org/",
+      "osm": "node/4846314979",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:benaroya-hall": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "200 University Street, Seattle, WA 98101",
+      "lat": 47.6081167,
+      "lng": -122.3369704,
+      "website": "https://www.seattlesymphony.org/benaroyahall",
+      "osm": "way/69273374",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:mccaw-hall": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "321 Mercer Street, Seattle, WA 98109",
+      "lat": 47.6239771,
+      "lng": -122.3503885,
+      "website": "https://www.mccawhall.com/",
+      "osm": "way/161070746",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-rep": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:seattle-children-s-theatre": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:the-5th-avenue-theatre": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:act-theatre": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "700 Union Street, Seattle, WA 98101",
+      "lat": 47.6108495,
+      "lng": -122.3323262,
+      "osm": "node/2404211190",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:on-the-boards": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "100 West Roy Street, Seattle, WA 98119",
+      "lat": 47.6258303,
+      "lng": -122.3581949,
+      "website": "https://www.ontheboards.org/",
+      "osm": "node/2400858913",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:intiman-theatre": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:theatre-off-jackson": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:unexpected-productions": {
+      "status": "unmatched",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:siff-cinema-downtown": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "2100 4th Avenue, Seattle, WA 98121",
+      "lat": 47.6142012,
+      "lng": -122.3413502,
+      "osm": "way/360389738",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:siff-cinema-uptown": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "511 Queen Anne Avenue North, Seattle, WA 98109",
+      "lat": 47.6234806,
+      "lng": -122.3571073,
+      "website": "https://www.siff.net/",
+      "osm": "way/231761619",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:siff-film-center": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "305 Harrison Street, Seattle, WA 98109",
+      "lat": 47.6231249,
+      "lng": -122.3531898,
+      "website": "https://www.siff.net/year-round-cinema/cinema-venues/siff-film-center",
+      "osm": "node/2494550790",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:northwest-film-forum": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1515 12th Avenue, Seattle, WA 98122",
+      "lat": 47.6144138,
+      "lng": -122.317071,
+      "website": "https://nwfilmforum.org",
+      "openingHours": "Mo-Fr 10:00-18:00",
+      "osm": "node/1244813813",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:central-cinema": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1411 21st Avenue, Seattle, WA 98122",
+      "lat": 47.6132215,
+      "lng": -122.3051662,
+      "website": "https://www.central-cinema.com/",
+      "osm": "node/1766895957",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:the-beacon": {
+      "status": "multiple",
+      "source": "openstreetmap",
+      "branches": 4,
+      "checkedAt": "2026-09-23"
+    },
+    "staple:t-mobile-park": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "1250 1st Avenue South, Seattle, WA 98134",
+      "lat": 47.5913974,
+      "lng": -122.332507,
+      "website": "http://seattle.mariners.mlb.com/",
+      "osm": "relation/18550612",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:lumen-field": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "800 Occidental Avenue South, Seattle, WA 98134",
+      "lat": 47.5953459,
+      "lng": -122.3316443,
+      "osm": "relation/5838734",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:climate-pledge-arena": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "334 1st Avenue North, Seattle, WA 98109",
+      "lat": 47.6219014,
+      "lng": -122.3539905,
+      "website": "https://climatepledgearena.com/",
+      "osm": "way/25123756",
+      "checkedAt": "2026-09-23"
+    },
+    "staple:husky-stadium": {
+      "status": "matched",
+      "source": "openstreetmap",
+      "address": "3800 Montlake Boulevard Northeast, Seattle, WA 98105",
+      "lat": 47.6503736,
+      "lng": -122.301976,
+      "osm": "relation/5636648",
+      "checkedAt": "2026-09-23"
+    }
+  }
+}

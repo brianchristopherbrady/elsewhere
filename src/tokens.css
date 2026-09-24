@@ -1,0 +1,55 @@
+:root {
+  --space-1: .25rem; --space-2: .5rem; --space-3: .75rem; --space-4: 1rem; --space-5: 1.5rem; --space-6: 2rem; --space-7: 3rem;
+  --type-caption: .75rem; --type-small: .8125rem; --type-body: .9375rem; --type-label: .875rem;
+  --type-title: 1.5rem; --type-section: 1.875rem; --type-display: 3rem;
+  --leading-body: 1.6; --leading-heading: 1.15; --weight-label: 600;
+  --control-size: 2.75rem; --control-compact: 2.25rem; --icon-size: 1.125rem;
+  --border-width: 1px; --focus-width: 3px; --focus-offset: 3px;
+  --opacity-disabled: .48; --ease-standard: cubic-bezier(.2, 0, 0, 1);
+  --layer-drag: 1500; --layer-notice: 2000; --layer-skip: 5000;
+  --content-max: 110rem; --content-measure: 65ch; --page-gutter: 2.25rem;
+  --planner-width: 21rem; --card-min: 16rem;
+  --neutral-0: #ffffff; --neutral-100: #e4e4e4; --neutral-800: #252525; --neutral-1000: #000000;
+  --photo-surface: #fffffff2; --photo-ink: #293426; --overlay: #15211ac2;
+  --control-border: var(--muted); --selected-border: var(--accent);
+  --text-inverse: var(--canvas); --surface-inverse: var(--text);
+  --canvas: #f6f5ef; --surface: #fffef8; --text: #29332b; --muted: #677062; --border: #d5d8ca;
+  --accent: #536348; --accent-ink: #ffffff; --subtle: #e6e9dd; --danger: #a23e30; --focus: #b24625;
+  --display: 'Newsreader', Georgia, serif; --body: 'DM Sans', sans-serif; --mono: 'IBM Plex Mono', monospace;
+  --heading-weight: 400; --radius: 2px; --duration: 350ms; --shadow: 0 16px 50px #17251a26;
+  --map-bg: #e6e9de; --map-filter: saturate(.22) sepia(.12);
+}
+:root[data-lens=journal][data-mode=dark] {
+  --canvas: #17231e; --surface: #202e26; --text: #f0efe3; --muted: #bbc4b5; --border: #4c5c4e;
+  --accent: #c0cea0; --accent-ink: #1a281f; --subtle: #334336; --danger: #ffb5a5; --focus: #f3be81;
+  --map-bg: #1b2822; --map-filter: invert(.89) hue-rotate(160deg) saturate(.3);
+}
+:root[data-lens=nocturne] {
+  --canvas: #f0f4f7; --surface: #ffffff; --text: #17272f; --muted: #53636e; --border: #c8d5df;
+  --accent: #006a7b; --accent-ink: #ffffff; --subtle: #ddecef; --danger: #a12d48; --focus: #b72961;
+  --display: 'Manrope', sans-serif; --body: 'Manrope', sans-serif; --heading-weight: 600; --radius: 8px; --duration: 480ms;
+  --map-bg: #dce8ef; --map-filter: saturate(.6); --shadow: 0 18px 65px #18304130;
+}
+:root[data-lens=nocturne][data-mode=dark] {
+  --canvas: #10191f; --surface: #19272f; --text: #f0f7f8; --muted: #b1c4ca; --border: #40545f;
+  --accent: #8eefd4; --accent-ink: #12262c; --subtle: #2c414b; --danger: #ffb2bf; --focus: #ffc36b;
+  --map-bg: #152128; --map-filter: invert(.9) hue-rotate(170deg) saturate(.4);
+}
+:root[data-lens=civic] {
+  --canvas: #f8f9fa; --surface: #ffffff; --text: #202628; --muted: #59636a; --border: #c3cbd0;
+  --accent: #174cd3; --accent-ink: #ffffff; --subtle: #e3eaf8; --danger: #b12736; --focus: #9f254e;
+  --display: 'Public Sans', sans-serif; --body: 'Public Sans', sans-serif; --heading-weight: 600; --radius: 0px; --duration: 150ms;
+  --map-bg: #e7edef; --map-filter: grayscale(.7); --shadow: 0 12px 35px #10182025;
+}
+:root[data-lens=civic][data-mode=dark] {
+  --canvas: #202426; --surface: #2b3034; --text: #f5f6f7; --muted: #bac5cc; --border: #59646c;
+  --accent: #bfd448; --accent-ink: #202426; --subtle: #394248; --danger: #ffadb7; --focus: #98caff;
+  --map-bg: #24292c; --map-filter: invert(.88) grayscale(.9);
+}
+:root[data-lens][data-contrast=true] {
+  color-scheme: light;
+  --canvas: var(--neutral-0); --surface: var(--neutral-0); --text: var(--neutral-1000); --muted: var(--neutral-800); --border: var(--neutral-1000);
+  --accent: #0033aa; --accent-ink: var(--neutral-0); --subtle: var(--neutral-100); --danger: #990000; --focus: #990066;
+}
+@media (pointer: coarse) { :root { --control-compact: 2.75rem; } }
+@media (prefers-contrast: more) { :root { --border: var(--muted); } }

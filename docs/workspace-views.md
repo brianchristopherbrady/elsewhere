@@ -1,0 +1,35 @@
+# Collect, Create and Review
+
+## Scope and Decisions
+
+The four primary pages are Discover (`#discover`), Saved items (`#items`), Create a Day (`#my-day`) and My Calendar (`#saved`). Discover is for searching and collecting potential activities, not assigning itinerary slots. It has no planner or saved-items sidebar. Existing curated bookmarks migrate into the browser-local idea list, including source snapshots for city and music activities.
+
+Saved items is a standalone library with search across names, categories, addresses, tags and notes, plus category/tag filters. Edit item notes (up to 2,000 characters) and up to 12 tags of 40 characters each, or confirm removal. These actions do not edit planned days. It has no Add to day controls. Items and annotations persist on this browser, not in the account.
+
+Live events is a Discovery type filter alongside Places, Music & Venues, Guided Tours and Meet Up, also available in inline discovery. It has no separate navigation item or page. Legacy `#events` links redirect to `#discover` with the filter selected.
+
+Create a Day uses a React DayPicker calendar or native date input. After choosing a date, the main column contains optional title, tags, day notes, arrival/departure times and activity notes. Its condensed saved-item list is visible before date selection, with text, category, tag and optional date-availability filters. Adding requires a date. Item notes are copied into the new stop; editing them afterward does not edit the library. Inline discovery remains available. The picker sits beside the editor on desktop and below it on narrow screens. New visitors have no seeded activities or date. Valid older drafts retain their timing values.
+
+My Calendar is an account-backed monthly calendar with title/tag cards and edit/remove controls. Drag a day between visible dates or use its reschedule dialog for any date. The month selector and agenda reach days outside the current month. The calendar scrolls within its own region on narrow screens; agenda actions remain available without horizontal scrolling. Published event dates never change when a day moves.
+
+The header gear opens Settings, replacing the code inspector and persistent theme toolbar. Settings contains the three lenses, independent light/dark controls, persisted reduced-motion/high-contrast preferences, display-name editing, sign-in/out and password recovery. Recovery reuses the existing email flow and pre-fills a signed-in user's email. Native dialogs trap focus and return it to the connected opener on dismissal. Developer system documentation remains at `/system.html`.
+
+## Implementation
+
+- Native arrival/departure inputs retain partial hour/minute/AM-PM segments while typing or using the clock popup. A conflicting pair remains visible with an inline error, rather than reverting either field. Only complete valid pairs (or explicitly empty optional times) update the draft. Save, share and map review focus invalid time edits instead of using the previous stored values. Correct incomplete edits before leaving the page; unfinished edits are not persisted.
+- App owns the browser-local working draft, metadata and saved ideas. Up to 200 ideas/stops are supported. Saved days require a date and at least one activity; the title defaults to Untitled day.
+- Account POST creates independent snapshots; owner-scoped PUT updates an existing ID. Editing identity persists through reload and is scoped to the signed-in account. Deleting the edited record clears that identity without removing the draft. Server validation accepts older timed records and new optional-time source snapshots.
+- dnd-kit supports pointer/keyboard activity sorting. Explicit earlier/later controls provide an alternative. Calendar date inputs provide a non-drag rescheduling alternative. Failed writes keep stored records intact and expose retryable errors inside active dialogs.
+- MapView consumes only planned stops. Numbered markers open the existing native dialog. Marker elements survive selection changes so Escape restores focus.
+- Co-located markers retain keyboard-expandable clusters. Reordering recomputes marker numbers, connecting legs, and walking estimates without changing chosen start times.
+- Map bounds refit on stop changes and container resize. The travel list provides the same leg information without requiring map interaction.
+- Source snapshots retain IDs, names, category, address, official HTTPS URL and published start/end dates. Saved ideas and shared plan text show explicit Pacific dates/ranges. A single-day item can only be added on that day; ranges accept either endpoint and intervening dates. All add paths reject out-of-range events with a notification, without altering stops. Existing snapshots without end dates remain single-day. Changing a previously planned day's date continues to expose source-date warnings. Multi-day listings may not run continuously; verify daily schedules with the organizer.
+- Coordinates are optional. Missing locations are named, never geocoded speculatively; unknown legs do not become map lines.
+- Known activity plus estimated travel minutes are shown separately from the scheduled span. Missing arrival/departure, unknown travel or conflicting order means no definite remaining-time claim. Remaining time, when calculable, means time after the last departure until midnight, not free time within gaps.
+- workspace.css reuses the six existing themes and semantic tokens. The editor uses page scrolling and intrinsic stacking. No separate theme or decorative card-based section system was added.
+
+## Verification and Limits
+
+Browser coverage includes independent library annotation/removal, combined metadata filters, inclusive date availability, copied-note isolation, profile failure/retry, settings persistence, recovery handoff, date-picker keyboard selection, optional timing, inline discovery, drag/button ordering, account saves, retryable moves, calendar drag, same-ID editing, deletion, map synchronization, dialog focus/return and six-theme WCAG-tagged axe scans. Responsive checks span 320 through 1536 CSS pixels, plus 200% root-font and text-spacing overrides. The Settings dialog replaces the old toolbar visual baseline; the filter-dialog baseline is retained.
+
+Walking times use distance estimates, not street routing, traffic, hill or accessibility data. City/music snapshots currently lack verified coordinates. Ideas are browser-local, not account-synced; saved account days are available across browsers. Arrival/departure inputs describe the selected calendar day and do not offer an overnight-date control. Shared links carry itinerary snapshots but not day-level title/tags/notes. Real assistive technology, physical devices and actual browser zoom remain unverified. React DayPicker and date-fns provide calendar logic.

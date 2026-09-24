@@ -1,0 +1,13 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+*.tsbuildinfo
+.env.local
+.env
+.data/
+*.sqlite*
+# Personal notes and local output kept out of the public repository.
+app-blurbs.md
+portfolio-screenshots/
+test-results-run.txt

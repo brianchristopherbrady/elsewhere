@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Elsewhere / System Notes</title>
+  <style>
+    :root { color-scheme: light dark; font-family: Georgia, serif; background: light-dark(#f7f7f1, #17231e); color: light-dark(#29332b, #f0efe3); }
+    * { box-sizing: border-box; }
+    body { max-width: 54rem; margin: auto; padding: 2rem 1rem 4rem; line-height: 1.7; overflow-wrap: anywhere; }
+    a { color: inherit; text-underline-offset: 4px; }
+    a:focus-visible { outline: 3px solid #bd6b3c; outline-offset: 4px; }
+    header { border-bottom: 1px solid; padding-bottom: 24px; }
+    h1 { font-size: 3rem; line-height: 1.1; font-weight: 400; margin-bottom: 1rem; }
+    h2 { font-size: 1.875rem; font-weight: 400; margin-top: 2.5rem; border-top: 1px solid; padding-top: 1.5rem; }
+    h3 { font-size: 1.25rem; margin-bottom: .25rem; }
+    p { margin-top: 8px; }
+    code { font-size: .875rem; overflow-wrap: anywhere; }
+    nav { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 24px; }
+    dt { font-weight: bold; margin-top: 14px; }
+    dd { margin-left: 0; }
+  </style>
+</head>
+<body>
+  <header><a href="./">Back to Elsewhere</a><h1>One day.<br />Three ways of seeing.</h1><p>Elsewhere / System notes, component contracts, and contribution guide.</p><nav aria-label="Documentation"><a href="#architecture">Architecture</a><a href="#components">Components</a><a href="#responsive">Responsive rules</a><a href="#accessibility">Accessibility</a><a href="#contributing">Contributing</a></nav></header>
+  <main>
+    <section id="architecture">
+      <h2>Architecture</h2>
+      <p>The structural system owns data, state, control semantics, and business logic. The design lens owns typography, image treatment, geometry, and composition. Color mode independently maps surfaces, text, actions, focus, warnings, and map treatments.</p>
+      <p>Root <code>data-lens</code> and <code>data-mode</code> select six mappings without changing component keys. Saved places and planned stops remain independent. Theme preferences, date, stops, and saved places persist locally; filter and view preferences remain session state.</p>
+      <dl>
+        <dt>Field Journal</dt><dd>Newsreader headings, DM Sans body, IBM Plex Mono numerals, printed-photo framing, low elevation, and botanical accents.</dd>
+        <dt>Nocturne</dt><dd>Manrope typography, image-led cards, contrasting surfaces and a luminous map route. The itinerary remains a vertical sequence.</dd>
+        <dt>Civic Modern</dt><dd>Public Sans, compact rows when space permits, square geometry, and blue light-mode or lime dark-mode actions.</dd>
+      </dl>
+      <h3>Token Layers</h3>
+      <p><code>src/tokens.css</code> is the runtime source of truth. Foundations cover rem-based spacing/type, sizing, borders, focus, opacity, layers and measures. Existing lens fonts, radius, shadow and duration remain shared. Semantic colors retain their established names, including <code>--canvas</code>, <code>--surface</code>, <code>--text</code>, <code>--muted</code>, <code>--accent</code>, <code>--danger</code> and <code>--focus</code>.</p>
+      <p><code>--control-border</code> provides stronger input/action boundaries than quiet structural <code>--border</code>. Selected controls use <code>--selected-border</code> as well as pressed semantics. Photo overlay colors remain legible independently of page mode. Component decisions include planner width, minimum card width and compact control size.</p>
+      <p>The high-contrast preview overrides all six palettes and native form color-scheme. OS reduced motion, increased contrast and forced colors remain separate preferences. There is no additional density mode or token build dependency; another consumer must justify token serialization.</p>
+    </section>
+    <section id="components">
+      <h2>Component Contracts</h2>
+      <h3>IconButton and Forms</h3>
+      <p>IconButton requires a label and icon children, accepts native button props and an additive className, and supplies a matching accessible name and native title tooltip. Use aria-pressed for toggles and disabled for unavailable commands. Targets are at least 36px at the default font size, or 44px for coarse pointers. Native labeled fields, selects, checkboxes and textareas retain their platform keyboard behavior. A placeholder is never the only label. Maturity: shared with browser coverage.</p>
+      <h3>PlaceCard / Photo</h3>
+      <p>Existing props: place, index, saved, planned, and save/add/select callbacks. Saved and planned are independent. Image and title open the same preview. Photos have stable dimensions and a named fallback; drag is an enhancement with an explicit Add alternative. Maturity: product component with six-lens and expanded-content tests.</p>
+      <h3>DayPlanner / StopItem / Balance</h3>
+      <p>Receives unique stops with minute-based start times and durations. Reordering preserves chosen times and surfaces conflicts. Edit, remove, earlier/later and drag commands remain available; boundary controls are disabled. Removal focuses the planner heading; undo restores the itinerary. Condensed mode is a summary, with Expand restoring editing. Five labeled native meters show editorial balance estimates, not scientific recommendations. Maturity: domain and browser tested.</p>
+      <h3>DiscoveryMap</h3>
+      <p>Leaflet controls zoom, pan, resizing, clustered keyboard markers and attribution. Lines connect Seattle stops using approximate coordinates and walking estimates, not street routing. The equivalent travel list remains readable without tiles. Tile errors offer retry. OpenStreetMap is an online enhancement; do not prefetch public tiles and choose an appropriate provider before high-volume deployment.</p>
+      <h3>Modal</h3>
+      <p>Props remain title, open, onClose, children and className. Native dialog.showModal makes the background inert. Initial focus is the close button; Tab/Shift+Tab wrap. Escape, close and outside clicks dismiss; the browser restores trigger focus. Related-place previews update the same dialog. Constrained-height dialogs scroll internally. Do not nest modal workflows. Maturity: shared with interaction and narrow visual coverage.</p>
+      <h3>LiveEvents / System Inspector</h3>
+      <p>The live calendar keeps loading, stale, expired, error and empty states and reuses IconButton for refresh. Filters remain native labeled controls. Inspector reports computed tokens and first mounted component dimensions; its solid text/canvas contrast is not a full accessibility evaluation. High-contrast palette preview is not OS forced-colors testing. Both retain their existing product APIs.</p>
+    </section>
+    <section id="responsive">
+      <h2>Responsive Rules</h2>
+      <p>The shell pairs flexible discovery with a 21rem planner. At 1150px the gutter and planner narrow to preserve working space. At 850px the existing Explore / My day / Day map controls switch between single-column surfaces. At 520px theme controls get separate rows and detail facts stack. No essential control or distance label is hidden to make content fit.</p>
+      <p>Discovery uses an intrinsic grid with 16rem minimum cards. Below a 30rem discovery container, Civic rows become image-above-content cards and the decorative stamp disappears. Calendar timestamp/content rows stack below a 38rem event container. These component decisions follow available space, not device names.</p>
+      <p>Grid/flex children containing long text or selects can shrink. Forms and actions wrap. Typography uses rem roles, never viewport units. Images use aspect ratios, while text-bearing areas grow naturally. Maps retain explicit 360/400px minimum heights and ResizeObserver-driven Leaflet resizing. Dialogs use dynamic viewport bounds. Logical properties and safe-area padding support structural RTL, not a completed translation.</p>
+      <p>Focus scrolling is immediate: global smooth scrolling can move dnd-kit geometry between keyboard movement and drop. Keep DOM and keyboard order consistent with the visual sequence.</p>
+    </section>
+    <section id="accessibility"><h2>Accessibility and Evidence</h2><p>The target is usable WCAG 2.2 AA-oriented interaction, not an unsupported conformance claim. Native labels, datalist autocomplete, checkboxes, selects, meters, semantic sections, dialog focus, status feedback, and explicit drag alternatives are used. Themes expose selected state through aria-pressed, not only color. Motion responds to OS preferences and inspector override. Forced colors retain control boundaries.</p><p>Run <code>npm test</code> for deterministic domain checks, <code>npm run test:e2e</code> for Chromium interaction and axe scans, and <code>npm run build</code> for TypeScript and production bundling. Browser viewport tests are not physical-device or actual browser-zoom evidence. See the repository verification report for exactly what was tested.</p><p>Implementation guidance: <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dialog">MDN native dialog</a>, <a href="https://docs.dndkit.com/presets/sortable">dnd-kit sortable controls</a>, <a href="https://www.w3.org/TR/WCAG22/">WCAG 2.2</a>, <a href="https://operations.osmfoundation.org/policies/tiles/">OpenStreetMap tile policy</a>.</p></section>
+    <section id="contributing">
+      <h2>Contributing and Limits</h2>
+      <p>Propose a consuming workflow and measurable failure first. Add tokens for repeated decisions, not every declaration. Validate a representative workflow before migrating another. Run unit, browser and build gates; no separate lint/formatter script is configured. Review screenshot changes before updating the Windows/Chromium baselines.</p>
+      <p>Release source, contracts and tests together. This is a single-app system, not a versioned package. Public APIs remain compatible; no migration adapters are required. Removed patterns include split-view overrides, absolute mobile mode controls and pixel-shrinking mobile labels. Deprecations need a replacement and removal milestone after all consumers migrate. Full migration map, examples and release criteria are in the repository's docs/design-system-upgrade.md.</p>
+      <p>Live events uses the official City calendar through a Node endpoint with a 15-minute cache. Failures retain visibly stale listings for at most 24 hours. It is not live ticket inventory or comprehensive event coverage; listings link to their official source and are not planner stops. Production needs the Node server.</p>
+      <p>Discover uses Seattle places and the dated SAM tour reviewed September 17, 2026. Unknown hours/access remain unverified. Costs, moods, durations and walks are estimates. Photography is labeled illustration, not venue imagery. Loaded-app planning works offline, but cold-start offline is not supported. No analytics, authentication or bookings are present.</p>
+      <p>Actual 200%/400% browser zoom, NVDA/JAWS/VoiceOver, physical touch hardware and Firefox/Safari remain external verification gates. Viewport resizing, root text enlargement, axe and media emulation are not substitutes and do not establish full WCAG conformance.</p>
+    </section>
+  </main>
+</body>
+</html>

@@ -1,0 +1,91 @@
+/* Mobile, touch and small-screen refinements. Loaded after styles.css and workspace.css. */
+:root { --tabbar-height: 4rem; --layer-nav: 1200; }
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+.nav-icon { display: none; }
+.map-title, .map-key, .map-status, .travel-label { font-size: var(--type-caption); }
+.leaflet-container .leaflet-control-attribution { font-size: var(--type-caption) !important; }
+
+/* Dialog heading stays reachable while long dialog content scrolls. */
+dialog { --dialog-pad: var(--space-5); --dialog-pad-end: var(--dialog-pad); }
+dialog > .dialog-heading { position: sticky; inset-block-start: calc(-1 * var(--dialog-pad)); margin-block-start: calc(-1 * var(--dialog-pad)); padding-block-start: var(--dialog-pad); background: var(--surface); z-index: 2; }
+.place-dialog { --dialog-pad: 0px; }
+
+@media (max-width: 850px) {
+  html { scroll-padding-block-end: calc(var(--tabbar-height) + env(safe-area-inset-bottom) + var(--space-3)); }
+  body { padding-block-end: calc(var(--tabbar-height) + env(safe-area-inset-bottom)); }
+  .site-header { flex-wrap: wrap; min-block-size: 0; gap: var(--space-2); padding: max(var(--space-2), env(safe-area-inset-top)) max(var(--page-gutter), env(safe-area-inset-right)) var(--space-2) max(var(--page-gutter), env(safe-area-inset-left)); }
+  [data-lens] .brand { font-size: 1.625rem; min-block-size: var(--control-size); min-inline-size: 0; }
+  .brand svg { inline-size: 1.5rem; block-size: 1.5rem; }
+  .header-right { flex-wrap: wrap; gap: var(--space-1); }
+  .city { display: none; }
+  .account-controls .filter-button { min-inline-size: var(--control-size); flex-shrink: 0; }
+  .account-name { max-inline-size: 9rem; }
+
+  /* Primary navigation becomes a bottom tab bar within thumb reach. */
+  .site-header nav { position: fixed; inset-inline: 0; inset-block-end: 0; z-index: var(--layer-nav); display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 0; flex: none; align-self: auto; padding: 0 env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left); background: var(--surface); border-block-start: 1px solid var(--border); box-shadow: 0 -8px 24px #0000000f; }
+  .site-header nav a { flex-direction: column; justify-content: center; gap: 2px; min-block-size: var(--tabbar-height); padding: var(--space-1); font-size: var(--type-caption); line-height: 1.2; text-align: center; color: var(--muted); }
+  .site-header nav a[aria-current=page] { color: var(--accent); font-weight: var(--weight-label); }
+  .site-header nav a[aria-current=page]::after { inset-block: 0 auto; inset-inline: 22%; height: 3px; }
+  .nav-icon { display: block; }
+  .nav-count { position: absolute; inset-block-start: 6px; inset-inline-start: calc(50% + 4px); min-inline-size: 1.25rem; padding-inline: .3rem; border-radius: 999px; background: var(--accent); color: var(--accent-ink); font: var(--weight-label) .75rem/1.25rem var(--body); }
+  .nav-count[data-empty] { display: none; }
+  .toast-region { inset-block-end: calc(var(--tabbar-height) + env(safe-area-inset-bottom) + var(--space-3)); }
+  .site-footer { padding-inline: max(var(--page-gutter), env(safe-area-inset-left)) max(var(--page-gutter), env(safe-area-inset-right)); }
+}
+
+/* Short landscape phones: keep the tab bar compact. */
+@media (max-width: 850px) and (max-height: 500px) {
+  :root { --tabbar-height: 3rem; }
+  .site-header nav a { flex-direction: row; gap: var(--space-2); }
+  .nav-count { position: static; }
+}
+
+/* Phones: dialogs become bottom sheets with pinned actions. */
+@media (max-width: 600px) {
+  .discovery, .live-events { padding-block-start: var(--space-4); }
+  .discovery-heading { padding-block: var(--space-2) var(--space-4); }
+  .discovery-heading h1, .feed-heading :is(h1, h2) { font-size: 2.25rem; }
+  .discovery-heading p { margin-block-start: var(--space-2); }
+  .issue-line { margin-block-end: var(--space-2); }
+  .discovery-type-row .feed-date { flex: 1 1 9rem; }
+  .feed-summary { flex-direction: column; align-items: flex-start; gap: 0; }
+  .mood-row { margin-block: var(--space-3) var(--space-4); }
+  .feed-heading { padding-block-end: var(--space-3); }
+  .feed-heading > svg { display: none; }
+  dialog, .place-dialog, .auth-dialog { --dialog-pad: var(--space-4); --dialog-pad-end: max(var(--space-4), env(safe-area-inset-bottom)); inline-size: 100%; max-inline-size: 100%; max-block-size: calc(100dvh - max(var(--space-5), env(safe-area-inset-top))); margin: auto 0 0; border-inline: 0; border-block-end: 0; border-radius: max(var(--radius), 12px) max(var(--radius), 12px) 0 0; padding: var(--dialog-pad) max(var(--dialog-pad), env(safe-area-inset-right)) var(--dialog-pad-end) max(var(--dialog-pad), env(safe-area-inset-left)); }
+  .place-dialog { --dialog-pad: 0px; --dialog-pad-end: env(safe-area-inset-bottom); padding: 0 0 var(--dialog-pad-end); }
+  .place-dialog .dialog-heading { padding: var(--space-3) var(--space-4); }
+  dialog .dialog-heading h2 { font-size: var(--type-title); }
+  :is(dialog > .dialog-actions:last-child, dialog > form:last-child > .dialog-actions:last-child, .place-dialog .dialog-actions) { position: sticky; inset-block-end: calc(-1 * var(--dialog-pad-end)); margin-block: var(--space-5) calc(-1 * var(--dialog-pad-end)); padding-block: var(--space-3) var(--dialog-pad-end); background: var(--surface); border-block-start: 1px solid var(--border); z-index: 2; }
+  .place-dialog .dialog-actions { margin-block-end: 0; }
+  dialog .dialog-actions > :is(.button, .filter-button) { flex: 1 1 9rem; }
+}
+
+/* Prevent iOS focus zoom: form text must be at least 16px on small or touch screens. */
+@media (max-width: 850px), (pointer: coarse) {
+  input:not([type=checkbox], [type=radio], [type=range]), select:not([multiple]), textarea:not([hidden]) { font-size: max(16px, 1rem); }
+}
+
+/* Touch: 44px targets for standalone links and dense controls. */
+@media (pointer: coarse) {
+  .brand, .place-card h3 button { min-block-size: var(--control-size); align-items: center; }
+  .event-content a, .unknown-details a, .saved-item-row a, .builder-stop a, .feed-summary a, .discovery-end a, .detail-content a, .music-venue-links a { display: inline-flex; align-items: center; min-block-size: var(--control-size); }
+  .feed-summary { flex-wrap: wrap; column-gap: var(--space-4); }
+  body .rdp-root, body .builder-date .rdp-root { --rdp-day-width: min(2.75rem, calc((100vw - 2 * var(--page-gutter)) / 7)); --rdp-day-height: 2.75rem; --rdp-day_button-width: var(--rdp-day-width); --rdp-day_button-height: 2.75rem; --rdp-nav_button-width: 2.75rem; --rdp-nav_button-height: 2.75rem; }
+  .rdp-weekday { font-size: var(--type-caption); }
+  .text-button { min-inline-size: var(--control-size); }
+  /* Hide the tab bar while typing so it cannot cover the focused field above the keyboard. */
+  body:has(:is(input:not([type=checkbox], [type=radio], [type=range]), textarea):focus) .site-header nav { display: none; }
+}
+
+/* Very narrow phones: keep the header on one row. */
+@media (max-width: 400px) {
+  [data-lens] .brand { font-size: 1.375rem; }
+  .header-sign-in-label { position: absolute; inline-size: 1px; block-size: 1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; }
+  .site-header nav a { padding-inline: 2px; }
+}
+
+/* Touch screens get press feedback instead of hover styles (hover rules are scoped to hover-capable devices). */
+@media (hover: none) {
+  :is(button, a, summary):active:not(:disabled) { opacity: .72; }
+}
